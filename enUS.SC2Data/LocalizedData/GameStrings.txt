@@ -1397,33 +1397,20 @@ Button/Name/MorphintoPlayerID17=Morph into Player ID 7
 Button/Name/MorphintoPlayerID18=Morph into Player ID 8
 Button/Name/MorphintoPlayerID19=Morph into Player ID 9
 Button/Name/MysteriousBottleofPills=Mysterious Bottle of Pills
-Button/Name/NanoRepairAirFiltrationSystem=Nano Repair: Air Filtration System
-Button/Name/NanoRepairAirFiltrationSystem1=Nano Repair: Air Filtration System
-Button/Name/NanoRepairAirFiltrationSystem3=Nano Repair: Air Filtration System
-Button/Name/NanoRepairCommunicationsArray=Nano Repair: Communications Array
-Button/Name/NanoRepairEngines=Nano Repair: Engines
-Button/Name/NanoRepairFTLConsole=Nano Repair: FTL Console
-Button/Name/NanoRepairHangarControlHub=Nano Repair: Hangar Control Hub
+Button/Name/NaniteRepairRegionBridge=Nanite Repair Region - Bridge
+Button/Name/NaniteRepairRegionHangar=Nanite Repair Region - Hangar
+Button/Name/NaniteRepairRegionLowerBow=Nanite Repair Region - Lower Bow
+Button/Name/NaniteRepairRegionMedicalBay=Nanite Repair Region - Medical Bay
+Button/Name/NaniteRepairRegionPort=Nanite Repair Region - Port
+Button/Name/NaniteRepairRegionReactor=Nanite Repair Region - Reactor
+Button/Name/NaniteRepairRegionStern=Nanite Repair Region - Stern
+Button/Name/NaniteRepairRegionStern2=Nanite Repair Region - Starboard
+Button/Name/NaniteRepairRegionUpperBow=Nanite Repair Region - Upper Bow
+Button/Name/NaniteRepairRegionXenobiology=Nanite Repair Region - Xenobiology
 Button/Name/NanoRepairHullIntegrity=Nano Repair
 Button/Name/NanoRepairLowerDeck=Nano Repair Lower Deck
-Button/Name/NanoRepairMainframe=Nano Repair: Mainframe
-Button/Name/NanoRepairMechanicsBayConsole=Nano Repair: Mechanics Bay Console
-Button/Name/NanoRepairMedicalConsole=Nano Repair: Medical Console
 Button/Name/NanoRepairMiddleDeck=Nano Repair Middle Deck
-Button/Name/NanoRepairPilotConsole=Nano Repair: Pilot Console
-Button/Name/NanoRepairReactor=Nano Repair: Reactor
-Button/Name/NanoRepairSecurityConsoles=Nano Repair: Security Consoles
-Button/Name/NanoRepairSensorArray=Nano Repair: Sensor Array
-Button/Name/NanoRepairShieldGenerators=Nano Repair: Shield Generators
-Button/Name/NanoRepairSystemsConsole=Nano Repair: Systems Console
-Button/Name/NanoRepairTargetingConsole=Nano Repair: Targeting Console
-Button/Name/NanoRepairToxinDistributionModules1=Nano Repair: Toxin Distribution Module
-Button/Name/NanoRepairToxinDistributionModules2=Nano Repair: Toxin Distribution Modules
-Button/Name/NanoRepairToxinDistributionModules3=Nano Repair: Toxin Distribution Module
-Button/Name/NanoRepairToxinProductionFacility=Nano Repair: Toxin Production Facility
 Button/Name/NanoRepairUpperDeck=Nano Repair Upper Deck
-Button/Name/NanoRepairWeaponsConsole=Nano Repair: Weapons Console
-Button/Name/NanoRepairXenobiologyResearchConsole=Nano Repair: Xenobiology Research Console
 Button/Name/NestSpawningOff=Nest Spawning Off
 Button/Name/NestSpawningOn=Nest Spawning On
 Button/Name/NextPage=Next Page
@@ -1883,7 +1870,7 @@ Button/Tooltip/EjectTractorBay2=<c val="FFFFFF">Eject the specified contents fro
 Button/Tooltip/EjectTractorBay3=<c val="FFFFFF">Eject the specified contents from the Tractor Dock. <n/><n/><c val="0080C0">Ejection will be delayed by 60 seconds<n/><n/>If asteroid is in dock and will explode within those 60 seconds, safety measures are bypassed and the asteroid is instantly ejected.</c></c><n/><n/><c val="FF0000">All loose contents inside the Asteroid Dock will be ejected indiscriminately</c>
 Button/Tooltip/EldritchFury=<c val="8000FF">Drop enough psionic energy onto the target location it disrupts reality for a short duration.</c><n/><n/><c val="0080C0">Deals 225 damage upon impact.<n/><n/>Deals damage to and debuffs anything caught in the impact zone for the next 20 seconds</c>
 Button/Tooltip/ElectricField=<c val="00FF00">Stuns and drains the energy of all units nearby the ship.<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Grants +1 charges to Electric Field</c><n/><n/><c val="800080">[Alien Pilot, Miner, Lieutenant Bonus]:<n/><n/>Drains 80% of the reactor's maximum energy upon firing.</c>
-Button/Tooltip/EmergencyRepairs=Instantly repairs the ship for <d ref="Effect,EmergencyRepairs,VitalArray[Life].ChangeFraction*100"/>% of max life.
+Button/Tooltip/EmergencyRepairs=Instantly repairs the ship for 400 life
 Button/Tooltip/EmergencyThrusters=Greatly increases the ship's speed. Rapidly falls off over the course of 4 seconds.
 Button/Tooltip/EmergencyWarp=Warp the ship instantly to the targeted location.
 Button/Tooltip/EmpoweredShell=<c val="8000FF">Rapidly regenerate armored shell.</c><n/><n/><c val="0080C0">+15 shell armor<n/>+20% movespeed<n/>+10 shell regen</c>
@@ -2003,7 +1990,7 @@ Button/Tooltip/HydrasaurPossessed=High-damage ranged unit. Can morph into a Lurk
 Button/Tooltip/IcarusCannons=Fire the Icarus' Cannons at the targeted point or unit.<n/><n/><c val="0080C0">Continually attacks until canceled or unable to.<n/><n/>Attack speed: <c val="FFFF00">1</c><n/>Range: <c val="FFFF00">15</c><n/>Damage <c val="FFFF00">75(100 vs Alien, 300 vs Structure)</c></c>
 Button/Tooltip/IcarusNuclearMortar=<c val="FFFFFF">Fire the Icarus' Nuclear Mortar at the target location.</c><n/><n/><c val="0080FF">Heavily irradiates the impact zone<n/><n/>Range: <c val="FFFF00">30</c><n/>Radius: <c val="FFFF00">8</c><n/>Damage: <c val="FFFF00">200(250 vs Alien, 400 vs Structure)</c></c>
 Button/Tooltip/IcarusPurge=<c val="FFFFFF">Purge the target vent</c><n/><n/><c val="0080FF">Set the interior of the targeted vent on fire</c>
-Button/Tooltip/Illusion=This unit is an illusion.
+Button/Tooltip/Illusion=<c val="8000FF">This unit is an illusion.</c><n/><n/><c val="0080C0">Takes 10% increased damage (30% if spawn)</c>
 Button/Tooltip/Impale2=<c val="8000FF">Impales all target units in the impact location.</c><n/><n/><c val="0080C0">Roots all affected units in place for 7 seconds.<n/>Has a 3 second delay.</c>
 Button/Tooltip/ImpalerEgg=<c val="400080">This cocoon contains an alien evolving into a new form</c>
 Button/Tooltip/ImpalerliskPossessed=High-damage ranged unit. Can morph into an Impaler.<n/><n/><c val="ffff8a">Can attack ground and air units.</c>
@@ -2150,6 +2137,17 @@ Button/Tooltip/MorphintoPlayerID18=Morph the avatar's form to perfectly mimic th
 Button/Tooltip/MorphintoPlayerID19=Morph the avatar's form to perfectly mimic this crew member.
 Button/Tooltip/MutePlayer=<c val="8000FF">Toggle whether this Crew Member will be able to send or receive intercom messages.</c><n/><n/><c val="0080C0">Messages sent still appear to the sender.</c>
 Button/Tooltip/MysteriousBottleofPills=<c val="808080">Mysterious bottle of pills. Likely used recreationally. They look like they've been here a long time...</c>
+Button/Tooltip/NaniteRepairRegion=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 50% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionBridge=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionHangar=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionLowerBow=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionMedicalBay=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionPort=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionReactor=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionStern=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionStern2=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionUpperBow=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
+Button/Tooltip/NaniteRepairRegionXenobiology=<c val="FFFFFF">Repair all mechanical units in the selected region</c><n/><n/><c val="0080FF">Repairs 75% of life per use. Takes 90 seconds to complete</c>
 Button/Tooltip/NanoRepairHullIntegrity=<c val="FFFFFF">Remotely repairs a ship system.</c><n/><n/><c val="0080FF">Repairs <c val="FFFF00">100%</c> of the maximum life of the specified ship system over <c val="FFFF00">60</c> seconds.</c>
 Button/Tooltip/NanoRepairLowerDeck=<c val="FFFFFF">Ship systems on the lower deck of the Aphaidia.</c>
 Button/Tooltip/NanoRepairMiddleDeck=<c val="FFFFFF">Ship systems on the middle deck of the Aphaidia.</c>
@@ -2306,7 +2304,7 @@ Button/Tooltip/Ship=<c val="808080">Mass produced standard space vessel. The S-3
 Button/Tooltip/ShipIntegrity1=<c val="00FF00">Enables use of Reinforcement Kits<n/><n/>+2000 HP to the Aphaidia<n/><n/>Aphaidia movespeed +0.25<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Reforcement Kit cost reduced by 60.<n/>Reinforcement Kit use time halved<n/>Reinforcement Kits can now be used on vents<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia<n/><n/>Aphaidia additional movespeed +0.25</c> <c val="800080"><n/><n/>[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Aliens gain control of all barricades</c>
 Button/Tooltip/ShipIntegrity2=<c val="00FF00">Enables use of Repair Kits<n/><n/>+2000 HP to the Aphaidia<n/>Aphaidia movespeed +0.25<n/><n/>Ship Systems gain +25% HP<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Repair Kit use cooldown reduced by 2.5<n/>Repair Kit cost reduced by 20<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia<n/>Aphaidia additional movespeed +0.25<n/><n/>Ship Systems gain an additional +25% HP</c><n/><n/><c val="800080">[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Ship systems take 500% damage from aliens.</c>
 Button/Tooltip/ShipIntegrity3=<c val="00FF00">+2000 HP to the Aphaidia<n/><n/>Hull Breaches take 3 repair kits to repair<n/>Hull Breaches repair 25% faster<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia<n/><n/>Hull Breaches take 2 repair kits to repair<n/>Hull Breaches repair 50% faster</c><n/><n/><c val="800080">[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Hull Breaches now spawn low level minions</c>
-Button/Tooltip/ShipIntegrity4=<c val="00FF00">+2000 HP to the Aphaidia<n/><n/>Unlocks Nanite Repair<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia<n/><n/>Nanite Repair heals ship systems to full instead of half.<n/></c><n/><c val="800080">[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Nanite repair will deconstruct ship systems, or when applicable constrict them.
+Button/Tooltip/ShipIntegrity4=<c val="00FF00">+2000 HP to the Aphaidia<n/><n/>Unlocks Nanite Repair<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia<n/><n/>Nanite Repair heals ship systems to 75% instead of 25%<n/></c><n/><c val="800080">[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>Nanite repair will deconstruct ship systems.
 Button/Tooltip/ShipIntegrity5=<c val="00FF00">+2000 HP to the Aphaidia<n/><n/><c val="008000">Primary Role: Pilot<n/>Secondary Role: Weapons Officer, Lieutenant</c></c><n/><n/><c val="FF8000">[Alien Pilot, Weapons Officer, Lieutenant Bonus]:<n/><n/>2000 Additional HP to the Aphaidia<n/>+1 Armor to the Aphaidia</c>
 Button/Tooltip/ShipModifications=Open the ship modifications menu.
 Button/Tooltip/SightGenemod=<c val="00FF00">+1 range to most weapons<n/>+3 range to C-20A Canister Rifle and MTL-9 Railgun<n/>+4 sight radius<n/><n/>Allows the user to see in the dark<n/>6 detection range</c><n/><n/>
@@ -3988,7 +3986,6 @@ Param/Value/01D4C76E=Error. Cannot take off. Reason: landed on an asteroid insid
 Param/Value/021A1035=You have allied yourself with the <c val="800080">Alien Minions</c>
 Param/Value/02328803= <c val="00FFFF">for all players</c>
 Param/Value/02390CAB=<c val="FF8000">Hangar</c> <c val="FFFF80">-</c> <c val="804000">Lower Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
-Param/Value/02416C1E=. 
 Param/Value/02608F4E=. 
 Param/Value/0273E0F6=<c val="FF0000">Access Denied. Requires Mechanically Officer, Captain, or Lieutenant access levels</c>
 Param/Value/0292D91C=Reactor 2
@@ -4001,6 +3998,7 @@ Param/Value/0399B913=Adaptive Biomass<n/><n/><c val="8000FF">Capable of mimickin
 Param/Value/03FAD1C0=
 Param/Value/044E83FF= <c val="00FF00">is no longer designated as a Mechanized Security target</c>
 Param/Value/04A36E85=<c val="FFFF00">[Broadcast]</c>: We have no option but to eliminate your vessel. All personnel aboard the Aphaidia please proceed to the evacuation point.
+Param/Value/050081C6=. 
 Param/Value/05A90A9F=test
 Param/Value/05BB1C5B=. 
 Param/Value/0634E78F=<c val="008000"> set to: </c><c val="FFFF00">0</c>
@@ -4011,6 +4009,7 @@ Param/Value/0768F3FA=Trident
 Param/Value/07AB6571=<c val="008000">Janitor's Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
 Param/Value/07CEA94E=<c val="FF0000">Access Denied. Requires Captain, Lieutenant, or Mechnical Officer access levels.</c>
 Param/Value/07E5C651=<c val="FF0000">Permission Denied. Requires Biologist, Captain, Security, or Lieutenant Access Level</c>
+Param/Value/08026D8C=Medical Bay
 Param/Value/08091B19=Infest Reactor 5
 Param/Value/0809A30A=<c val="FF0000">Permission Denied. Requires Engineer, Security Chief, Lieutenant or Captain Access Level</c>
 Param/Value/0866811F=[
@@ -4030,7 +4029,6 @@ Param/Value/0AE6AF88=<c val="00FF00">Human</c> chat<n/><n/><c val="FFFF80">Radio
 Param/Value/0AECEA2C=ROLE ACTIVE
 Param/Value/0AFE9A41=<c val="00FFFF">Janitor's Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
 Param/Value/0B48D4A8=<c val="FF0000"> has been killed!</c>
-Param/Value/0B49A618= <c val="800000">seconds</c>
 Param/Value/0B5CF405=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/0B6644E0=<c val="FF8000">Page 2:</c>
 Param/Value/0B716CDD=] 
@@ -4048,6 +4046,7 @@ Param/Value/0D2C584E=<s val="KillLogLeft">KILLER</s>
 Param/Value/0D329CFB=You are the ship's doctor. Your room is to the bottom right of the <c val="00FF00">Biosphere</c> deck. Your role is to get the ship's healthcare systems upgraded. You will also likely be the one in charge of genetically analyzing people on board the ship.<n/><n/>The genetic analyzer will be brought online at healthcare 2. To collect a sample for it you must use the genetic samplers, available in the machine's console. Use them on a crew member to get a genetic sample. Once a sample is obtained place it inside the genetic analzyer. Once the analsis is initiated it will take 90 seconds (60 if healthcare two was purchased by you) to complete, and will reveal the target's species. Any aliens inside the genetics room are capable of sabotaging the results of the test.
 Param/Value/0D410AC4=<c val="800000">Ship Hatch</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/0D64A180=<c val="00FF40">You have succesfully unmuted the targeted player.</c>
+Param/Value/0D6648D8=<c val="008080">Fix Upper Deck Oxygen Filters [
 Param/Value/0D8BAEB6=Infected Barricade<n/><n/><c val="8000FF">Creates an infested barricade. Blocks movement.</c><n/><n/><c val="0080FF">Click to toggle open/closed</c><n/><n/><c val="400040">Cannot be used by humans</c>
 Param/Value/0DF2E8BE=Infest Security 3
 Param/Value/0DF56B0D=Infest Healthcare 2
@@ -4062,15 +4061,15 @@ Param/Value/0EEEF9E9= is now marked as a <c val="FF0000">Teamkiller 2</c>
 Param/Value/0F5F3F12=<c val="FF0000">, an <c val="8000FF">Alien Spawn</c>, has been killed!</c>
 Param/Value/0F9DC516=<c val="800040">Admin</c> chat<n/><n/><c val="FFFF80">Admin</c>: Messages are broadcasted globally without restriction
 Param/Value/0FF0D505=<c val="FF8000">Zoo Cam Box</c>
-Param/Value/100B6CA0=<c val="80FFFF">Role: Security Chief</c><n/><n/><c val="0080FF">Your role is to upgrade security in the office adjacent to spawn. Watch cameras and coordinate with the captain in order to identify threats and eliminate them with the ship's security system. Or if the captain is compromised, counter any attempts he may have to turn the ship's systems against humanity.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/1012B1DE= <c val="8000FF">was the Original Alien Successor</c>
 Param/Value/101593B5=<c val="800080">Admin</c>
+Param/Value/1065B5B7=Eligible For Bio: 
 Param/Value/1075AECF=Name too short
 Param/Value/111DC19D=Security 2
 Param/Value/1145BB6E=<c val="FF0000">Access Denied. Requires Engineer, Technological Officer, Lieutenant, or Captain access levels.</c>
 Param/Value/1152948A=<c val="FF8000">Storage</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
-Param/Value/11BB14CB=Eligible For Bio: 
 Param/Value/11C114BA=Error. Aphaidia hull integrity too low.
+Param/Value/11E508A9=Hangar
 Param/Value/11F1AED5=<c val="0080FF">Credit Income is increased by 40 for every Ship Upgrade purchased as its primary role. Credit income is increased by 6-1 for every unstable mineral processed.<n/><n/>Miners mining in space awards all crew members a flat amount of credits.</c><n/><n/><c val="00FFFF">Current Credit Income:</c> 
 Param/Value/12087AE8=Infest Firmware 1
 Param/Value/127368CC=<c val="FFFF00">Sensor Array</c>: <c val="FF8000">Hull breach detected</c>
@@ -4098,10 +4097,8 @@ Param/Value/15EB76DF=.
 Param/Value/15FAFF4A=. 
 Param/Value/16026F10=<c val="FFFF80">Chat Focus Set:</c> <c val="00FF00">Human</c>
 Param/Value/161A705D=<s val="KillLogRight">KILLED</s>
-Param/Value/167B59A0=Opted For Weapons Officer: 
 Param/Value/167D1DAC=Infest Warp Coils 1
 Param/Value/16B18C90=. 
-Param/Value/16EBD971=<c val="80FFFF">Role: Doctor</c><n/><n/><c val="FFFFFF">Medic suit heal energy drain halved.<n/>Gain 15 credit income for every unique player tested</c><n/><n/><c val="0080FF">Your role is to get the ship's healthcare systems upgraded. You will also likely be the one in charge of genetically analyzing people on board the ship.<n/><n/>The genetic analyzer will be brought online at healthcare 2. To collect a sample for it you must use the genetic samplers, available in the machine's console. Use them on a crew member to get a genetic sample. Once a sample is obtained place it inside the genetic analzyer. Once the analsis is initiated it will take 90 seconds (60 if healthcare three was purchased by you) to complete, and will reveal the target's race.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c><n/><n/>
 Param/Value/171FEADD=<c val="008000">Banks Saved</c>
 Param/Value/172CF491=Reactor 1
 Param/Value/17E047C6=<c val="8000FF">You are now an Alien Spawn</c>
@@ -4126,6 +4123,7 @@ Param/Value/1B777266=<c val="8000FF"> was an Alien Spawn!</c>
 Param/Value/1BA46C21=Host Evolved
 Param/Value/1BAAB7F3=Count
 Param/Value/1C50554A=Error. No missing Starwanderers
+Param/Value/1C75DBD2=<c val="80FFFF">Role: Captain</c><n/><n/><c val="0080FF">Your job is to coordinate the crew in trying to discover and eliminate the alien threat. The main location, which is the center of all that your role provides you, is on the ship's bridge. It is located in the center of the middle floor. From there you can designate targets for the ship's security system, view the ship's security cameras, and activate various ship systems.<n/><n/>You also have the job of upgrading the ship systems. These are located in the mainframe, which is located above the spawn room. You must research these upgrades in order to use certain ship systems from your console on the bridge.<n/><n/>Your card gives you access to every area on the ship, as well as most of the ship's systems, ensure it doesn't fall into alien hands.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/1CD3BD34=. 
 Param/Value/1CFA0FD6=Infest Weapons 3
 Param/Value/1D17E09B=Deactivate Automatic Upgrade Infesting<n/><n/>Currently: <c val="8000FF">Active</c>
@@ -4158,8 +4156,8 @@ Param/Value/21FFD18F=/2]</c>
 Param/Value/22105158=<c val="FF8000">MSU-02</c>
 Param/Value/22198C02=<c val="FF0000">Permission Denied. Requires Engineer, Lieutenant, Security Officer, or Captain Access Level</c>
 Param/Value/2227AFAB=Reactor
+Param/Value/226256BC=/2]</c>
 Param/Value/22716268=<c val="800080">Alien Spawn</c>
-Param/Value/227C7899=<c val="80FFFF">Role: Weapons Officer</c><n/><n/><c val="0080FF">Your role is to get the ship's armory upgraded to full to allow humanity access to better weapons. You also have the task of operating the ship's weaponry to defend it against anything out in space.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/22A632E1=Template 3
 Param/Value/22F39395=Error. Cannot find a place to land.
 Param/Value/22F3C38A=<c val="FFFF00">Mechanized Security:</c> 
@@ -4185,7 +4183,7 @@ Param/Value/273D0E31=Large high quality mineral field detected. <n/><n/>Extensiv
 Param/Value/2747F819=<c val="FF0000">[Team Killer]</c> 
 Param/Value/2752AB44=. 
 Param/Value/27C17413=Open Liquidation Menu
-Param/Value/27F46961=FTL
+Param/Value/27F46961=Lower Bow
 Param/Value/2812C831=<c val="FF0000">% hull integrity remaining.</c>
 Param/Value/283B1261=<c val="008080">Fix Lower Deck Oxygen [2/2]</c>
 Param/Value/2894CBF3=Liquidate
@@ -4196,11 +4194,13 @@ Param/Value/29405C4F=<c val="FF0000">Added all players to Admin Chat</c>
 Param/Value/29439501=<c val="FFFF80">Chat Focus Set:</c> <c val="8000FF">Alien</c>
 Param/Value/294E4A2B=<c val="FF0000">Janitor's Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
 Param/Value/296C654C=/3]</c>
+Param/Value/29B6F8FB=Xenobiology
 Param/Value/29B933C0=<c val="00FFFF">Chat is range limited. Only players within 16 range of you can hear your messages. <n/><n/>Stand near an <c val="FFFF00">Intercom Console</c> to send messages globally.<n/><n/><c val="00FF00">Stand near the <c val="FFFF00">Intercom Console</c> and send a message.</c>
 Param/Value/29D84C98= Researched</c>
 Param/Value/2AB0B569=<c val="FFFF00">Mechanized Security:</c> 
 Param/Value/2AF5B591=<c val="FF00FF">Player has won the game using Veteran Difficulty:</c> 
 Param/Value/2B123E23=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
+Param/Value/2B373FF1=Eligible For Tec: 
 Param/Value/2B59B5C2=<c val="00FF00">Players Spawned:</c> 
 Param/Value/2B8A8F4C=<c val="FF0000">Airlock is locked</c>
 Param/Value/2B97CE26=. 
@@ -4214,7 +4214,9 @@ Param/Value/2D041124=Role: <c val="FFFF80">Security Chief</c>
 Param/Value/2D05B59A=Infest Weapons 2
 Param/Value/2D39755A=. 
 Param/Value/2D3BDA83=<c val="400040">[Hive Mind]</c> 
+Param/Value/2D44E4C2=Opted For Doctor: 
 Param/Value/2D69AA57=<c val="FFFF00">Ship Sensors</c>: <c val="FF0000">Unauthorized organism detected</c>
+Param/Value/2D792507=Upper Bow
 Param/Value/2D810235=<c val="FF8000">This isn't a real corpse...</c>
 Param/Value/2DAD8A99=. 
 Param/Value/2DE6FF5B=This action cannot be reversed
@@ -4223,18 +4225,20 @@ Param/Value/2E2F478E=<c val="0080FF">General Supplies</c><n/><s val="Tip"><k val
 Param/Value/2E63CABE=Fix the Oxygen Filters located in Bio Processing and Pharmaceutical Lab
 Param/Value/2EC6FA69=<c val="0000FF">A player has left the game</c>
 Param/Value/2F64C84C=<c val="FF00FF">. Loser.</c>
+Param/Value/2F769FB8=<c val="80FFFF">Role: Security Chief</c><n/><n/><c val="0080FF">Your role is to upgrade security in the office adjacent to spawn. Watch cameras and coordinate with the captain in order to identify threats and eliminate them with the ship's security system. Or if the captain is compromised, counter any attempts he may have to turn the ship's systems against humanity.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/2F833EB5=<c val="FF0000">Permission denied. Required Biologist, Captain, or Lieutenant clearance levels.</c>
 Param/Value/2F8ECCA7=Minor medium quality mineral field detected.<n/><n/>Massive gas cloud detected. None harmful. Occupied by a pod of Pteragantua.
-Param/Value/2FE815E3=<c val="80FFFF">Role: Technological Officer</c><n/><n/><c val="0080FF">You are in charge of the ship's FTL systems. Power must be routed to the ship's FTL in order for it to function. Inside the FTL console you have the ability to select a destination. Once a destination is selected hit jump. Jump will initiate a 40 second preparation before entering warp. The ship's warp shield, the two switches inside the FTL room, must be online during the jump, else there will be severe negative effects during warp. The switches cannot be activated once warp has initiated.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/302B15E3=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Jump cancellation overridden. Emergency contingencies in place. Aphaidia hull integrity compromised.</c>
 Param/Value/304EC468=<c val="FF0000">The eye of disapproval looks down on you</c>
 Param/Value/30509CEB= infestation available</c>
+Param/Value/307A56E2=/
 Param/Value/30A8D084=Mechanics Bay 5
 Param/Value/30C86D4A=Elyon
 Param/Value/30EA03E9=You have opted for <c val="800080">Host</c>
 Param/Value/30EAB3AB=Open Successor Menu
 Param/Value/311C7C2D=<c val="FF8000">Storage Room</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/311DED7C=Warp Coils 1
+Param/Value/31B3F551=<c val="80FFFF">Role: Mechanical Officer</c><n/><n/><c val="FFFFFF">Maintenance Suit repair speed is doubled</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/31B9AE0B=Mechanics Bay 2
 Param/Value/31D66B20=. 
 Param/Value/31D7AD65=Hangar
@@ -4242,11 +4246,9 @@ Param/Value/326AA965=Sorry sir but that's illegal
 Param/Value/32B123C2=<c val="FFFF00">Ship Sensors</c>: <c val="FF0000">Unauthorized personnel detected</c>
 Param/Value/33697A6E=<c val="FF8000">Airlock has been</c> <c val="00FF00">Unsealed</c>
 Param/Value/3378238E=Variable not recognized
-Param/Value/33F63197=<c val="80FFFF">Role: Lieutenant</c><n/><n/><c val="0080FF">Your role is to upgrade the ship's firmware in the mainframe. It is located above spawn. Once a firmware upgrade is purchased, you must intiate a systems reboot in order for it to take effect. Power will be offline for 90 seconds during the reboot, so ensure that won't cause any issues.<n/><n/>You can also purchase any other upgrade on the ship and receive their bonuses. Your card enables you to access any area on the ship as well as use any system, short of the security targeting console.<n/><n/></c><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/340188E4=Role: <c val="FFFF80">Captain</c>
 Param/Value/34CD54A1=You are now the Alien Successor
 Param/Value/34EDC121=<c val="00FFFF">Doors such as the one next to this console can be locked<n/>Right clicking the console will lock/unlock the door, but only if<n/>you have the clearance level required for the specific door.<n/>Clearance level is provided by key cards.</c><n/><n/><c val="00FF00">Right click the panel.</c>
-Param/Value/34EE03CE=<c val="FFFF00">Ship Jump Drive</c>: <c val="800000">Jumping in: </c>
 Param/Value/353D8B3A=<c val="FFFF00">Vents</c> <c val="FFFF80">-</c> <c val="804000">Lower Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/355C24CA=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Cannot bring ship power online. Reason: Reactor Core is damaged</c>
 Param/Value/355FF7D7=Player's Alien Form Died: 
@@ -4273,6 +4275,7 @@ Param/Value/38CD139E=:
 Param/Value/3986953A=Error. Permission denied
 Param/Value/39899EBA=Firmware 2
 Param/Value/399A1C4A=<c val="FF0000">[Selfer]</c> 
+Param/Value/3A0E3C8D=Who Opted for what: 
 Param/Value/3A0FE6F5=Role: <c val="FFFF80">Biologist</c>
 Param/Value/3A4C42C0= is now unmarked as a <c val="FF0000">Saboteur</c>
 Param/Value/3A5F0C52=<c val="800080">Alien Successor</c>
@@ -4286,11 +4289,12 @@ Param/Value/3BAB7634=Error. No more of this item available
 Param/Value/3BF7CC2A=Victory Conditions <c val="00FF00">Enabled</c>
 Param/Value/3C079C44=<c val="400040">[Hive Mind]</c><c val="8000FF">: 
 Param/Value/3C4C9B14=<c val="FF0000">Permission denied. Required Biologist, Captain, or Lieutenant clearance levels.</c>
-Param/Value/3C5E0BEB=Upper Corridor
+Param/Value/3C884866=/
 Param/Value/3C9632E7=Role: <c val="FFFF80">Engineer</c>
 Param/Value/3CF3854E=Weapons control has been returned to normal function
 Param/Value/3D044BA5=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/3D13C5D5=Open the Host Menu
+Param/Value/3D3E0D2D=<c val="008080">Fix Lower Deck Oxygen Filters [
 Param/Value/3DA523CC= 
 Param/Value/3DAA150F=. 
 Param/Value/3DF940C7=Smite
@@ -4306,7 +4310,6 @@ Param/Value/3EB9EB76= TK
 Param/Value/3EE39E16=Above average amount of low quality minerals detected.<n/><n/>A pair of outlaw frigates is detected roaming the sector.
 Param/Value/3EFE1845=<c val="FF0000"> , lockdown engaged.</c>
 Param/Value/3F0B0FCA= 
-Param/Value/3F167890=Opted For LT: 
 Param/Value/3F1E0F32=Error. Nothing in Tractor Bay
 Param/Value/3F258CFC=Infest Ship Integrity 4
 Param/Value/3F259887=Reactor Infestations
@@ -4349,6 +4352,7 @@ Param/Value/44708E9A=Close Liquidation Menu
 Param/Value/4503B027=Mercenary Star
 Param/Value/458F3AB2=<c val="FF0000">Permission Denied. Requires Engineer, Security Chief, Lieutenant or Captain Access Level</c>
 Param/Value/45BA7859=<c val="8000FF">[Teamkiller 2] </c>
+Param/Value/45EE4DBE=Bridge
 Param/Value/461291B3=Weapons 3
 Param/Value/462F4FA7=Xenobiology Infestations
 Param/Value/4631C988=<c val="FF0000">General Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
@@ -4362,19 +4366,21 @@ Param/Value/476F80E9=
 Param/Value/4771B0C7=Healthcare 1
 Param/Value/478AACA1=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Scan Failed. Reason: Sensor Array Damaged</c>
 Param/Value/47B4CC97=<c val="400080">Mining Operations 1 Infestation -</c> <c val="8000FF">Alien Form life increased by 5%</c>
+Param/Value/4813F483=Current Region :
 Param/Value/48430A60=<c val="FF0000">You have joined Admin Chat</c>
 Param/Value/485A5802=<c val="FF0000">Permission Denied. Requires Captain, Lieutenant, Engineer, or Doctor Access Levels</c>
 Param/Value/486CFB3D=Find safety until ship power comes back online
-Param/Value/49006840=. 
 Param/Value/493406B1=Open Evolve
 Param/Value/49B3C6EF=. 
 Param/Value/49CA4786=<c val="0000FF">Main Corridor</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/49D4E3B6= <c val="00FF00">is here</c>
+Param/Value/4A6BA5FF=Eligible For Security Officer: 
 Param/Value/4ADC3638=<c val="FF0000">Warp switch disabled</c>
 Param/Value/4B32581A=Close Successor Menu
 Param/Value/4BDBB967=<s val="ChatTip">TIP: Chat is local unless you are near an intercom console. Only players within 16 range of you can hear what you say.</s>
 Param/Value/4C1E9C3C=Xeno Biology 1
 Param/Value/4CA1A471=Perpetiel
+Param/Value/4CA42A3C=Port
 Param/Value/4CB4E5C3=<c val="008000">Purchase Mining Operations [
 Param/Value/4CB7CD32=Card Replicator<n/><n/><c val="8000FF">This mass of alien parasites and metal can turn itself into a near identical version of any card.</c><n/><n/><c val="0080C0">Creates a card of the currently mimiced player. The card is fake and does not function.
 Param/Value/4CBE9D7A= is now unmarked as a <c val="FF0000">Ban</c>
@@ -4384,7 +4390,6 @@ Param/Value/4D66407B=<c val="FF0000">[NameBan] </c>
 Param/Value/4D8CA455=<c val="8000FF">You are now the Alien Host</c>
 Param/Value/4E60676D= is now marked as a <c val="FF0000">NameBan</c>
 Param/Value/4E6997F4=<c val="00FF00">Biosphere</c> <c val="FFFF80">-</c> <c val="80FF80">Upper Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
-Param/Value/4E7889F8=Eligible For LT: 
 Param/Value/4E7D75D1=<c val="FFFF00">Ship Mainframe</c>: <c val="00FF00">Ventillation purge completed for floor</c>: 
 Param/Value/4EE8075F=Genemod purchased
 Param/Value/4F05D7E4=<c val="00FFFF">Drug Lab</c> <c val="FFFF80">-</c> <c val="80FF80">Upper Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
@@ -4435,14 +4440,13 @@ Param/Value/581E8387=<c val="FF8000">Airlock has been</c> <c val="00FF00">Unseal
 Param/Value/59178875=Results have been sabotaged - <c val="8000FF">Alien</c>
 Param/Value/596E810D=<c val="FF0000">Bank tampering detected</c>
 Param/Value/59D55264=Symbiotic Collective<n/><n/><c val="8000FF">Create a replica of yourself.</c><n/><n/><c val="0080C0">Replica can be deflated. Replica will return to item state upon deflation.<n/>Will use your human form's currently equipped weapon.<n/><n/>Cannot move too far away from origin point. Upon moving too far the Symbiotic Collective will deflate.<n/>Symbiote will die upon taking 225 damage total in its lifetime</c><n/><n/><c val="400040">Cannot be used by humans. If used in human form, will explode if not used while minion allied.</c>
-Param/Value/5A5F6715=Eligible For Security Officer: 
+Param/Value/5A6A3705=<c val="80FFFF">Role: Miner</c><n/><n/><c val="FFFFFF">Piloted Starwanderers have +0.5 movement speed<n/>Life armor increased by +1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/5A9BC1F6=<c val="400040">[Hive Mind]</c><c val="8000FF">: 
 Param/Value/5AA33D29=Victory Conditions <c val="FF0000">Disabled</c>
 Param/Value/5ADB9DF5=<c val="FF00FF">. Tryhard.</c>
 Param/Value/5B03AE87=Reaver
 Param/Value/5B7FAEE1=Fix the Aphaidia's Reactor
 Param/Value/5BD06E34=<c val="800000">Weapons control compromised</c>
-Param/Value/5BD76F29=<c val="80FFFF">Role: Miner</c><n/><n/><c val="FFFFFF">Piloted Starwanderers have +0.5 movement speed<n/>Life armor increased by +1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/5BEDE356=: 
 Param/Value/5C20FFD0=. 
 Param/Value/5C4AD167=<c val="FFFF00">Ship Mainframe</c>: Recalling AX07 Mining Drones
@@ -4456,7 +4460,6 @@ Param/Value/5CB09C13=test
 Param/Value/5CE66081=<c val="800000">Raider</c>
 Param/Value/5D0CFF7C=/5]</c>
 Param/Value/5D18864B=<c val="400040">[Hive Mind]</c><c val="8000FF">: Firmware 5 Infested</c>
-Param/Value/5D271111=Eligible For Weapons Officer: 
 Param/Value/5D4D8493=<c val="FF0000">Permission Denied. Requires Captain Access Level</c>
 Param/Value/5DF1731B=<c val="008080">You have been sampled...</c>
 Param/Value/5E3E3916=Zuphlas
@@ -4473,7 +4476,6 @@ Param/Value/6047E4BF=
 Param/Value/6049F85F=You are one of the two Miners. Your role is to gather minerals across the secure space near Aphaidia along with the miner bots. there are different types of minerals: <c val="0080FF">Lowest Yield</c>, <c val="0000FF">Low Yield</c>, <c val="FFFF00">Medium Yield</c>, <c val="FF8040">High Yield</c> and <c val="FF0000">Highest Yield</c> mineral clusters. Each of these give various quantities of credits to you and the crew.<n/><n/>Located at the far right side of the hangar is the <c val="FF0000">Asteroid Bay</c>. If the Pilot has tractored an asteroid into the ship, you will be able to board and mine it on the left side of the <c val="FF0000">Asteroid Bay</c>. The asteroid will detonate within 14-16 minutes of being pulled into the ship. The Pilot is capable of ejecting the asteroid from the ship. Be careful not to be ejected with the asteroid. Mining <c val="00FFFF">Unstable Minerals</c> increases the crew's credit income
 Param/Value/60664CF7=Large quanity of extremely low quality minerals detected.<n/><n/>Massive gas cloud detected. None harmful. Occupied by a single lone Pteragantua.
 Param/Value/6084692D= 
-Param/Value/60FE40C6=Opted For Mec: 
 Param/Value/61059F8F=
 Param/Value/61099F78=<c val="80FFFF">Scrap Income</c><n/><n/><c val="0080FF">Scrap income is increased by 30(50 with upgrade bonus) for every firmware upgrade uploaded. Scrap income is increased by 6-1 for every Scrap Pile processed</c><n/><n/><c val="00FFFF">Current Scrap Income:</c><c val="FFFF00"> 240</c>
 Param/Value/61301355=Pilot Infestations
@@ -4486,12 +4488,13 @@ Param/Value/624BC7C7=<c val="FF0000">Reboot not required</c>
 Param/Value/62CE0D35=<c val="FF8000">Tractor Bay</c>: Bay: 
 Param/Value/62EDE6C6=<c val="FF0000">Armory</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/63172239=<c val="FFFF00">Sensor Array</c>: <c val="FF8000">Hull breach detected</c>
+Param/Value/6337E0C7=. 
 Param/Value/6357DD9B=<c val="8000FF">[Saboteur]</c> 
+Param/Value/638CA7F5=Opted For Tec: 
 Param/Value/63ADF7E7=<c val="00FF00">You have been revived!</c>
 Param/Value/63AFF542=Corpse Producer<n/><n/><c val="8000FF">Near perfectly replicates the appearance of an infested corpse. Will stand up against everything but the closet scrutiny.</c><n/><n/><c val="0080C0">If used with mimicry will produce the corpse of a player. If done so will also produce a fake card of that player.</c><n/><n/><c val="400040">Cannot be used by humans. If used in human form, will explode if not used while minion allied.</c>
 Param/Value/648348D6=<c val="FFFF00">Ship Mainframe</c>: <c val="00FFFF">Ship Systems Reboot complete. Bringing ship power online</c>
 Param/Value/64F30178= <c val="FF0000">is the sole remnant of humanity...</c>
-Param/Value/650CA4EC=<c val="80FFFF">Role: Engineer</c><n/><n/><c val="0080FF">Your role is to get the ship's reactor upgraded. You are in charge of routing the ship's power to the various ship systems. Careful though, as if the reactor cannot provide the amount of power you are demanding, it will drain its batteries, and once those are drained, the reactor breaker will be tripped and it will go offline.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/657859B8=<c val="FF0000">Spacewalk</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/65B744C0=Low quality minor mineral deposit detected. Trace amounts of rare materials detected.<n/><n/>Scans pickup a single lone outlaw frigate patrolling the sector.
 Param/Value/65C019E4=<c val="FFFF00">Ship Mainframe</c>: <c val="00FFFF">Jump Initiated</c>
@@ -4522,8 +4525,9 @@ Param/Value/6B67B9E9=
 Param/Value/6B6EF549=<c val="FF0000">Access Denied. Requires Engineer, Technological Officer, Lieutenant, or Captain access levels.</c>
 Param/Value/6C49B2DA=. 
 Param/Value/6C88F30A=. 
-Param/Value/6CB27B79=Mechbay
+Param/Value/6CB27B79=Stern
 Param/Value/6CDADCEB=
+Param/Value/6D1EB06F=/2]</c>
 Param/Value/6D3EB853=. 
 Param/Value/6D5880CE=Card Replicator Used
 Param/Value/6D842006=/5]</c>
@@ -4539,6 +4543,7 @@ Param/Value/703B72B4=<c val="800080">Alien Spawn</c>
 Param/Value/706DA52E=Security 4
 Param/Value/707A9AE7=Scan 2
 Param/Value/709EC628=<c val="8000FF">[NameBan] </c>
+Param/Value/71160093=Opted For Pilot: 
 Param/Value/713A42F9=Warp Coils 3
 Param/Value/7180FC2E=Reactor 4
 Param/Value/71EEA4D7=<c val="800080">Admin</c>
@@ -4564,6 +4569,7 @@ Param/Value/74CA0E45= <c val="FF0000">ASTEROID CRITICAL. DETONATION IMMINENT. SA
 Param/Value/74E30863=Infest Vent Purge
 Param/Value/74F8D9E9=<c val="FFFF00">[Intercom]</c> 
 Param/Value/75215856=Host Evolved
+Param/Value/753988ED=Opted For Miner: 
 Param/Value/756C2192=<c val="FF8000">MSU-01</c>
 Param/Value/75835BFB=
 Param/Value/75DD054A=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
@@ -4573,7 +4579,6 @@ Param/Value/76875F11=<c val="FF0000">[Teamkiller 2] </c>
 Param/Value/76BD8219=<c val="00FFFF">Credit income increased by</c> 
 Param/Value/76DF31F6=<c val="FF0000">Permission Denied. Requires Pilot, Security Chief, Lieutenant or Captain Access Level</c>
 Param/Value/77678C7C= 
-Param/Value/7793F351=Eligible For Miner: 
 Param/Value/779C9E65=Warp Coils Infestations
 Param/Value/77D377A6=<c val="0080FF">Janitor's Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
 Param/Value/77EEC9E6=<c val="FF0000">Your Avatar has Died!</c>
@@ -4589,6 +4594,7 @@ Param/Value/79528FD8=Genetic Sampler Used
 Param/Value/79947CCF=<c val="FF8000">MSU-03</c>
 Param/Value/79E74203= 
 Param/Value/79FFE6A3=High quantity low quality mineral field detected.<n/><n/>Readings also indicate an outlaw outpost has been setup here.
+Param/Value/7A2DC113=
 Param/Value/7A5DCAEF=<n/><c val="FFFF80">Interact:</c><n/><n/>Right click on an object to interact with it.<n/><n/><c val="FFFF80">Roles:</c><n/><n/>Each player is assigned a role. These roles give you special bonuses when purchasing upgrades or preforming certain tasks. You can figure out where your station(s) is/are by typing "!Role" into chat, which will ping its location<n/><n/><n/><c val="FFFF80">Chat System:</c><n/><n/>By default, the chat system is range limited. Messages sent over the suit radio will only be visible to those near you. If you are near an intercom console, the message will be broadcasted to everyone. The intercom system is not secure in the slightest, and can easily be used to mask who you are. Unless, of course, the communication system has been damaged, then it simply won't work at all.<n/><n/><n/><c val="FFFF80">Income:</c><n/><n/>Income is split into two resources: Credits, and Scrap. Credits are used to upgrade yourself (Armory, genetic modification, weaponry). Scrap is used to upgrade the Aphaidia. Scrap income is increased with every Firmware upgrade. Credit income is increased by Unstable Mineral processing.<n/><n/><n/><c val="FFFF80">Upgrades:</c><n/><n/>Personal life upgrades, suit changes, and grenades can be found in the Armory. Type !Armory to ping it on the minimap
 Param/Value/7A925A5A=<c val="00FF00">===1HP===</c><n/><n/><c val="008000">Syntax: !1HP<n/><n/>All selected units will have their HP set to 1</c><n/><n/><c val="00FF00">===AdminSpeak===</c><n/><n/><c val="008000">Syntax: !AdminSpeak <PlayerID#><n/>Syntax: !AdminSpeak Remove<n/>Syntax: !AdminSpeak Remove<n/><n/>Adds or removes the player from global admin chat. All will add all players to admin chat. Remove will remove all players from admin chat. The commands can be shortened to !as #, !as a, and !as r</c><n/><n/><c val="00FF00">===Apply===</c><n/><n/><c val="008000">Syntax: !Apply <Behavior> <Count><n/><n/>Applies the count of the specified behavior to all selected units</c><n/><n/><c val="00FF00">===ControlOn===</c><n/><n/><c val="008000">Syntax: !ControlOn<n/><n/>Grants control over the selected player</c><n/><n/><c val="00FF00">===ControlOff===</c><n/><n/><c val="008000">Syntax: !ControlOff<n/><n/>Removes control over the targeted player</c><n/><n/><c val="00FF00">===ControlOffAll===</c><n/><n/><c val="008000">Syntax: !ControlOffAll<n/><n/>Disables all admin control over other players</c><n/><n/><c val="00FF00">===Copy===</c><n/><n/><c val="008000">Syntax: !Copy<n/><n/>Copies the selected units</c><n/><n/><c val="00FF00">===Damage===</c><n/><n/><c val="008000">!Damage<n/><n/>Instantly deals 10k damage to all selected units</c><n/><n/><c val="00FF00">===Fix===</c><n/><n/><c val="008000">Syntax: Fix<n/><n/>Sets the health, shields, and energy of all selected units to full</c><n/><n/><c val="00FF00">===Infest===</c><n/><n/><c val="008000">Syntax: !Infest <PlayerID><n/><n/>Instantly spawns the specified player, if they are not already an alien</c><n/><n/><c val="00FF00">===Invul===</c><n/><n/><c val="008000">Syntax: !Invul<n/><n/>All selected units will have their invulnerability toggled</c><n/><n/><c val="00FF00">===Kill===</c><n/><n/><c val="008000">Syntax: !Kill<n/><n/>Kills all selected units instantly</c><n/><n/><c val="00FF00">===Remove===</c><n/><n/><c val="008000">Syntax: !Remove <BehaviorID> <Count><n/><n/>Removes the count of the specified behavior from all selected units</c><n/><n/><c val="00FF00">===Revive===</c><n/><n/><c val="008000">Syntax: !Revive <PlayerID><n/><n/>Revives the specified player if they are dead or advisor</c><n/><n/><c val="00FF00">===Spawn===</c><n/><n/><c val="008000">Syntax: !Spawn <Count> <UnitID> <PlayerID><n/><n/>Spawns the specifed count of the specified unit for the specified player. Cannot spawn more than 500 units at once.</c>
 Param/Value/7B2B2042=<c val="FF0000">Permission Denied. Requires Captain Access Level</c>
@@ -4600,7 +4606,6 @@ Param/Value/7C7B4EC0=High quality medium quantity mineral field detected.<n/><n/
 Param/Value/7C900253=<c val="FF0000">Anti-Troll Disabled</c>
 Param/Value/7CB7CF0C=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/7CD83DCB=<c val="FF0000">Permission Denied. Requires Doctor, Captain, Security, or Lieutenant Access Level</c>
-Param/Value/7D9F0849=<c val="80FFFF">Role: Pilot</c></c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/7DCDE46D= [
 Param/Value/7ED3B2E6=[
 Param/Value/7EF6620A=<c val="00FFFF">Admin Commands Enabled</c>
@@ -4613,7 +4618,6 @@ Param/Value/7F66391F=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Warp sh
 Param/Value/7F887333=Eternity
 Param/Value/7FA578DE=. 
 Param/Value/7FA62B89=<c val="00FF00">Handles</c><n/><n/><c val="008000">Lists all players in the current game</c><n/><n/><c val="00FF00">!Stats</c><n/><n/><c val="008000">Syntax: !Stats 1-3<n/><n/><c val="008000">Displays your game stats</c><n/><n/><c val="00FF00">!Destick</c><n/><n/><c val="008000">Teleports you to the middle of mid deck if it detects you're stuck on top of a cliff</c><n/><n/><c val="00FF00">!Name</c><n/><n/><c val="008000">Sets a custom name usuable in the next match by selecting the custom name option in lobby</c><n/><n/><c val="00FF00">!Vet</c><n/><n/><c val="008000">Usable in the first 30 seconds. Gives you -10% damage to Aliens. Displays an announcement if you survive until the end of the match as human.</c><n/></c><n/><c val="00FF00">!VoteKick</c><n/><n/><c val="008000">Syntax: !VoteKick 1-12<n/><n/>Vote to remove the observer. Number is in order of names displayed in handles</c><n/><n/><c val="00FF00">!FixUI</c><n/><n/><c val="008000">Toggles UI in order to possibly fix missing inventory slots</c><n/><n/><c val="00FF00">!VC</c><n/><n/><c val="008000">Toggles camera moving with elevator interact start</c>
-Param/Value/802D9751=Opted For Engi: 
 Param/Value/8046636F=<c val="FF8000">This isn't a real corpse...</c>
 Param/Value/805619A8=Error. Someone else is controlling this.
 Param/Value/808189B1=<c val="FF0000">Access Denied. Requires Captain or Security Chief access levels</c>
@@ -4622,7 +4626,6 @@ Param/Value/80D12552=<c val="FF0000">Armory Cam Box</c>
 Param/Value/8105999F=Variable not recognized
 Param/Value/81B1A31D= was an <c val="8000FF">Alien Spawn!</c>
 Param/Value/81C2BE4F=<c val="FFFF00">Ship Mainframe</c>: <c val="00FF00">Security systems returning to default configuration</c>
-Param/Value/81C4240D=Eligible For Tec: 
 Param/Value/81D35FE3=
 Param/Value/81E2947A=<c val="8000FF">Erorr. The game doesn't think this asteroid bridge exists.</c>
 Param/Value/81ED6B16=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Warp shield offline</c>
@@ -4637,6 +4640,7 @@ Param/Value/82C40C64=<c val="00FFFF">Genetic Analyzer:</c> Credit income increas
 Param/Value/82DBAD18= votes to kick 
 Param/Value/834E4F6D=<c val="FF0000">You are no longer spying on all chat channels</c>
 Param/Value/83946D42=<c val="FF0000">Insufficient samples</c>
+Param/Value/84143B1C=/
 Param/Value/8451CE13= [
 Param/Value/85042C9B= is now marked for <c val="FF0000">Alien Ban</c>
 Param/Value/85152C73=Infest Weapons 5
@@ -4646,7 +4650,7 @@ Param/Value/8556DD3A= #
 Param/Value/855CCE52=. 
 Param/Value/857E85AA= transfering to 
 Param/Value/864A9C45=<c val="FFFF00">Ship Jump Drive</c>: <c val="00FFFF"> <c val="FF0000">Anomaly disrupting warp function. Cannot jump until Anomaly is cleared</c>
-Param/Value/8689EAA4=Opted For Tec: 
+Param/Value/86AB59F7=Eligible For Miner: 
 Param/Value/87068272=Medium quantity high quality mineral field detected<n/><n/>Raider outpost and a single raider cruiser detected in the sector.
 Param/Value/87282931=<c val="00FF00">Teamkills:</c> 
 Param/Value/8743A487=<c val="FF0000">[Saboteur]</c> 
@@ -4654,6 +4658,8 @@ Param/Value/879099F8=<c val="FF0000">Access Denied. Requires Engineer, Technolog
 Param/Value/87A3DFB8=test
 Param/Value/87A62A2F=Weapons Infestations
 Param/Value/87D4E20D=Error. Must be on Aphaidia to upgrade
+Param/Value/87D8E6AE=/2]</c>
+Param/Value/87F57C9E=Opted For Security Officer: 
 Param/Value/8808082D=Error. Too many ELI3-V217 Cobras assigned to the target
 Param/Value/88512095= 
 Param/Value/8873BE6A=<c val="FFFF00">Teleporter</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
@@ -4689,7 +4695,6 @@ Param/Value/8DC96E59=
 Param/Value/8DE20F8D=<c val="FFFF00">[Silenced] </c>
 Param/Value/8E1EFED8=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/8E1FBFC4=Infest Healthcare 5
-Param/Value/8E428773=<c val="FFFF00">Ship Jump Drive</c>: <c val="FF0000">All personnel return to the Aphaidia immediately</c>
 Param/Value/8E61C739=Close Host Menu
 Param/Value/8E6BE6A6=<c val="800080">Alien Host</c>
 Param/Value/8EB37D76=You are the weapons officer. Your room is located on the top left of middle deck. Your role is to get the ship's armory upgraded to full to allow humanity access to better weapons. <n/><n/>You also have the task of operating the ship's weaponry to defend it against anything out in space. To use the ship's weapons requires the Engineer to have routed power to them.
@@ -4709,7 +4714,6 @@ Param/Value/90B566F8=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000
 Param/Value/90DDCB24=Role: <c val="FFFF80">Captain</c>
 Param/Value/910441C4=Liquidate 
 Param/Value/913892F7=Chat Commands
-Param/Value/91431BC4=Opted For Bio: 
 Param/Value/917655D8=Infest Mechanics Bay 3
 Param/Value/9180AE3F=test
 Param/Value/918BE5CC=There was once a planet in this sector. Upon the discovery that the entire planet was composed entirely of rare materials, the entire planet was destroyed, throwing all those materials into space. Even after centuries of mining there are still untold riches here.<n/><n/>Unfortunately, the riches were not enough to keep the attention of the corporation responsible for the planet's destruction, and has since been abandoned. It has now become a hub for outlaws and pirates, who did still see value in it. There is now a massive raider fleet and base within this sector
@@ -4718,11 +4722,13 @@ Param/Value/91C2BE6F=Infest Firmware 2
 Param/Value/91C6E476=<c val="800000">Warning: Unauthorized access detected. Security system overridden.</c>
 Param/Value/91C99738=<c val="FF0000">Warp switched damage. Repair before attempting to bring online</c>
 Param/Value/9233D23B=<c val="FF8000">MSU-01</c>
+Param/Value/923C8350=Stern
 Param/Value/9271FC32=Backup Generators
 Param/Value/929AB591=<c val="FF0000">Access Denied. Requires Captain, Lieutenant, or Mechanical officer access levels.</c>
 Param/Value/92B67002=<c val="FFFF00">Ship Sensors</c>: <c val="FF0000">Anomaly detected</c>
 Param/Value/92DA6025=Omniel
 Param/Value/9300B927=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">SECURITY SYSTEMS OVERRIDDEN</c>
+Param/Value/9362DB16=Opted For Weapons Officer: 
 Param/Value/93E5D13D=You are now an Alien Spawn. You are now allied with the Alien Host. Your goal is now to eliminate humanity. It is likely that the remaining humans do not know that you have been spawned, use this in your task of helping the Host kill or spawn everyone.<n/><n/><c val="800080">Alien Chat:</c><n/><n/>Chat is toggled via the button next to the chatbar, or by pressing (Tab) while chat is closed. Speaking while Alien Chat is enabled will send the message globally to all Alien players.<n/><n/><n/><c val="800080">Sabotage:</c><n/><n/>The ship has numerous systems around it. Radiation Shield, Shield Generator, Mainframe, Communications Array, and more. Breaking these will create hazards or otherwise hinder the Humans.<n/><n/>You can also infest your upgrade, creating various effects that will aid you in your task of eliminating the Humans. What each upgrade will do when infested is written in its tooltip.<n/><n/><n/><c val="800080">Spawning:</c><n/><n/>Any human that is killed either by your alien form directly, by your spawns, or by minions will be converted into an Alien Spawn.<n/><n/><n/><c val="800080">Evolution:</c><n/><n/>The Alien Host can evolve, upgrading both their and your form. 
 Param/Value/93EAA4C3=You cannot opt for <c val="800080">Host</c>
 Param/Value/93EE0FFC=<c val="FF0000">Permission Denied. Requires Biologist, Captain, Security, or Lieutenant Access Level</c>
@@ -4736,14 +4742,15 @@ Param/Value/95A1EEAA=<c val="00FF00">Games Played:</c>
 Param/Value/95DB7825=
 Param/Value/96188168=<c val="FF0000">[LeftLastGame] </c>
 Param/Value/96664263=. 
-Param/Value/967F2DD8=Opted For Miner: 
 Param/Value/97239F8E=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/97404623=. 
 Param/Value/97511420=Electric Field
 Param/Value/9767703A= 
 Param/Value/97B1402F= <c val="FFFF00">Asteroid detonation estimate: 10 minutes.</c>
 Param/Value/97E0780B=. 
+Param/Value/984279A5=<c val="80FFFF">Role: Doctor</c><n/><n/><c val="FFFFFF">Medic suit heal energy drain halved.<n/>Gain 15 credit income for every unique player tested</c><n/><n/><c val="0080FF">Your role is to get the ship's healthcare systems upgraded. You will also likely be the one in charge of genetically analyzing people on board the ship.<n/><n/>The genetic analyzer will be brought online at healthcare 2. To collect a sample for it you must use the genetic samplers, available in the machine's console. Use them on a crew member to get a genetic sample. Once a sample is obtained place it inside the genetic analzyer. Once the analsis is initiated it will take 90 seconds (60 if healthcare three was purchased by you) to complete, and will reveal the target's race.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c><n/><n/>
 Param/Value/98A00E12=/3]</c>
+Param/Value/98B2199D=<c val="80FFFF">Role: Lieutenant</c><n/><n/><c val="0080FF">Your role is to upgrade the ship's firmware in the mainframe. It is located above spawn. Once a firmware upgrade is purchased, you must intiate a systems reboot in order for it to take effect. Power will be offline for 90 seconds during the reboot, so ensure that won't cause any issues.<n/><n/>You can also purchase any other upgrade on the ship and receive their bonuses. Your card enables you to access any area on the ship as well as use any system, short of the security targeting console.<n/><n/></c><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/98F1A10E=/2]</c>
 Param/Value/993125A6=<c val="FFFF00">Station Security:</c> <c val="FF0000">Auto targeting ID</c>: 
 Param/Value/9957344F=Vent Purge
@@ -4764,17 +4771,19 @@ Param/Value/9BB5606F=test
 Param/Value/9C27A54A=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Reactor reboot complete.</c>
 Param/Value/9C2E95C7=<c val="FF8000">Fusion Reactor</c>: <c val="FF0000">Reactor Core damaged. Repair before attempting to bring online.</c>
 Param/Value/9C3728E4=Player's Alien Form Died: 
+Param/Value/9CFE0E47=Starboard
 Param/Value/9D20A5EF=<c val="00FF00">Human Deaths:</c> 
 Param/Value/9D45EC66=Open Liquidation Menu
 Param/Value/9D4F20C7=Ship Integrity 4
-Param/Value/9D6B14D5=<c val="800000">Warp Daemon Inbound</c>
 Param/Value/9D7AF75B=Close Infestation Activation Menu
 Param/Value/9D7DF71A= to the Aphaidia.
 Param/Value/9DFE4BA0=[Suit Radio]: <c val="800000">Raider</c>: 
 Param/Value/9E20FA27=<c val="FF8000">Airlock has been</c> <c val="FF0000">Sealed</c>
 Param/Value/9E2F475A=<c val="00FF00">Kill all Aliens</c>
+Param/Value/9E490AF8=<c val="008080">Fix Middle Deck Oxygen Filters [
 Param/Value/9E49A6A2=Ship Integrity 3
 Param/Value/9E60E30E=<c val="8000FF">Error. The game doesn't think this ship exists.</c>
+Param/Value/9E61B44C=Ship Bow
 Param/Value/9E9DA01F=<c val="FF0000">You have been liquidated</c>
 Param/Value/9F6DBDC6=Infest Security 4
 Param/Value/9F892213=. 
@@ -4794,7 +4803,6 @@ Param/Value/A35965AA=<c val="FFFF00">Estimated sector threat is medium</c><n/><n
 Param/Value/A3B1568F=<c val="FFFF00">Vents</c> <c val="FFFF80">-</c> <c val="80FF80">Upper Deck</c>
 Param/Value/A3DD41EE=<c val="008080">Fix Middle Deck Oxygen [2/2]</c>
 Param/Value/A3EDF08D=<c val="FF0000">Deactivated</c>
-Param/Value/A409BB81=<c val="80FFFF">Role: Miner</c><n/><n/><c val="FFFFFF">Piloted Starwanderers have +0.5 movement speed<n/>Life armor increased by +1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/A4282047= finished transfer to 
 Param/Value/A46F71A8=Infest Xenobiology 5
 Param/Value/A4E5AA1F= <c val="00FFFF">seconds</c>
@@ -4811,12 +4819,11 @@ Param/Value/A8B36F8C=Xeno Biology 3
 Param/Value/A944CF00=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/A96AE30B=<c val="FF00FF">Player has won the game using Veteran Difficulty:</c> 
 Param/Value/A978BE47=: 
-Param/Value/A9C5961A=Opted For Doctor: 
 Param/Value/A9D9F309=test
 Param/Value/AA4764D2=Infest Security 1
 Param/Value/AA47FE67=<c val="00FF00">Spawn Deaths:</c> 
 Param/Value/AA5902A5=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Scan Failed. Reason: Sensor Array Damaged</c>
-Param/Value/AAE18308=Crew Quarter
+Param/Value/AAE18308=Starboard
 Param/Value/AB065E7D=<c val="FF0000">Error. Requires 1,200 credits to perform surgery.</c>
 Param/Value/AB3BDE53=<c val="800080">S</c><c val="80007D">o</c><c val="80007B">m</c><c val="800079">e</c><c val="800077">t</c><c val="800074">h</c><c val="800072">i</c><c val="800070">n</c><c val="80006E">g</c><c val="80006B"> </c><c val="800069">i</c><c val="800067">s</c><c val="800064"> </c><c val="800062">b</c><c val="800060">l</c><c val="80005E">o</c><c val="80005B">c</c><c val="800059">k</c><c val="800057">i</c><c val="800054">n</c><c val="800052">g</c><c val="800050"> </c><c val="80004E">y</c><c val="80004B">o</c><c val="800049">u</c><c val="800047">.</c><c val="800045">.</c><c val="800042">.</c>
 Param/Value/ABB61D5C=<c val="FF8000">MSU-03</c>
@@ -4840,11 +4847,10 @@ Param/Value/AEB6F0BA=Host Evolved
 Param/Value/AECECC3F=Tearney
 Param/Value/AED83896=<c val="400080">Infested Corpse</c>
 Param/Value/AF0A0A0F= 
-Param/Value/AF2FAA76=Opted For Security Officer: 
 Param/Value/AF419BEB=Survive until the end of the game.
 Param/Value/AF4D5BDA=Variable not recognized
+Param/Value/AF6B0ADB=Eligible For Doctor: 
 Param/Value/AF7C7B32=: 
-Param/Value/AFA72E8E=Eligible For Pilot: 
 Param/Value/AFC7D451=<c val="FF0000">Permission denied. Required Biologist, Captain, or Lieutenant clearance levels.</c>
 Param/Value/AFF43AF4= was the <c val="8000FF">Alien Host!</c>
 Param/Value/B040C6E3=<c val="00FF00">Estimated sector threat is low</c><n/><n/>
@@ -4855,7 +4861,6 @@ Param/Value/B0D1B732=<c val="FF0000">Access Denied. Requires Mechanically Office
 Param/Value/B0E7AE03=<c val="008000">Purchase Mechanics Bay [
 Param/Value/B0F0C3C9=<c val="FFFF80">Chat Focus Set:</c> <c val="8000FF">Alien</c>
 Param/Value/B1195CAA=<c val="FF8000">MSU-02</c>
-Param/Value/B162ED7D=Opted For Captain: 
 Param/Value/B172490C=<c val="800080">You are now an Alien Spawn</c>
 Param/Value/B19532C9=<c val="FF8000">Airlock has been</c> <c val="FF0000">Sealed</c>
 Param/Value/B19B445D=Xeno Biology 2
@@ -4878,6 +4883,7 @@ Param/Value/B3EDA48B=<c val="FF0000">Mechanics Bay Link - Interrupted</c>
 Param/Value/B4033124=<c val="FF0000">Permission Denied. Requires Mechanical Officer, Lieutenant, Security Officer, or Captain Access Level</c>
 Param/Value/B4451D49=<c val="FF0000">Access Denied. Requires Engineer, Technological Officer, Lieutenant, or Captain access levels.</c>
 Param/Value/B45ABED0=Infest Electric Field
+Param/Value/B476A57C=Reactor
 Param/Value/B478D399=Infest Xenobiology 1
 Param/Value/B4829489=<c val="FFFF00">Vents</c> <c val="FFFF80">-</c> <c val="00FFFF">Middle Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/B48C0BE2=<c val="800080">[PM] </c>
@@ -4887,8 +4893,8 @@ Param/Value/B526D6A4=Xeno Biology 5
 Param/Value/B54554CE=<c val="00FF00">Survive</c>
 Param/Value/B5A1BD22=<c val="8000FF">[Selfer]</c> 
 Param/Value/B5A268F7=<c val="00FF00">Warp the Aphaidia</c>
+Param/Value/B5B9C43C=Eligible For Engi: 
 Param/Value/B5C00949=Liquidate
-Param/Value/B5DAE94D=Ship Bow
 Param/Value/B61B1E9C=<c val="00FF00">Estimated sector threat is low</c><n/><n/>
 Param/Value/B635CB77=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/B6580862=<c val="800000">Press Disconnect Warp Failsafe on Bridge Systems Console</c>
@@ -4913,6 +4919,7 @@ Param/Value/B9496CC8=<c val="00FF00">Security Sensor Array - Last Known Location
 Param/Value/B977ABEF=. 
 Param/Value/B9AF2097=]
 Param/Value/B9D4252B=Security 3
+Param/Value/BA46B90D=Eligible For Weapons Officer: 
 Param/Value/BA9165ED=Weapons 4
 Param/Value/BB02D753=<c val="FF0000">Error. FTL insuffciently charged</c>
 Param/Value/BB1852A1= is now unmarked as a <c val="FF0000">NameBan</c>
@@ -4923,15 +4930,14 @@ Param/Value/BB93FF32=.
 Param/Value/BB9C8D00=Infest Tractor Beam
 Param/Value/BBEBD3AD=<c val="FF0000">Warning: Do not spam chat</c>
 Param/Value/BC32E122=Role: <c val="FFFF80">Weapons Officer</c>
-Param/Value/BC526305=<c val="FFFF00">Ship Jump Drive</c>: <c val="FF0000">CATASTROPHIC FAILURE DETECTED</c>
 Param/Value/BCB067E9=<c val="FF8000">Tag is now hidden</c>
 Param/Value/BCD8A151=<c val="FF0000">Access Denied. Requires Captain, Lieutenant, or Mechnical Officer access levels.</c>
 Param/Value/BCD904AB=<c val="FF0000">Cannot jump. Improvements to warp coils required.</c>
 Param/Value/BCEA1AED=<c val="400040">[Hive Mind]</c><c val="8000FF">: Host evolving </c>
-Param/Value/BD34A567=Biosphere Corridor
-Param/Value/BD3FBFB7=<c val="80FFFF">Role: Mechanical Officer</c><n/><n/><c val="FFFFFF">Maintenance Suit repair speed is doubled</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
+Param/Value/BD15A706=<c val="80FFFF">Role: Technological Officer</c><n/><n/><c val="0080FF">You are in charge of the ship's FTL systems. Power must be routed to the ship's FTL in order for it to function. Inside the FTL console you have the ability to select a destination. Once a destination is selected hit jump. Jump will initiate a 40 second preparation before entering warp. The ship's warp shield, the two switches inside the FTL room, must be online during the jump, else there will be severe negative effects during warp. The switches cannot be activated once warp has initiated.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/BD8D1313=Healthcare 2
 Param/Value/BDA671CD=<c val="FF8000">Hangar</c> <c val="FFFF80">-</c> <c val="804000">Lower Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
+Param/Value/BDDBDB05=Opted For Engi: 
 Param/Value/BDED703B=
 Param/Value/BE147FB5= is now marked as a <c val="FF0000">Saboteur</c>
 Param/Value/BE21C1AB=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Reactor reboot in progress. Cannot bring power back online</c>
@@ -4946,7 +4952,6 @@ Param/Value/BF227BF4=<c val="FFFF00">Sensor Array</c>: <c val="FF8000">Hull brea
 Param/Value/BF376D42=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/BF77F3EF=<c val="00FFFF">Genetic Analyzer:</c> <c val="FF0000">Sample has been contaminated.</c>
 Param/Value/BFEA700C=<c val="FF0000">Estimated sector threat is high</c><n/><n/>
-Param/Value/C02B5FE7=<c val="FFFF00">Ship Jump Drive</c>: <c val="FF0000">Jump Drive malfunction detected.</c>
 Param/Value/C0963869=Xeno Biology 4
 Param/Value/C09C2600=Deactivate Automatic Upgrade Infesting<n/><n/>Currently: <c val="8000FF">Active</c>
 Param/Value/C0B7E7FE=/4]</c>
@@ -4973,11 +4978,8 @@ Param/Value/C420A44F=<c val="FF0000">Permission Denied. Requires Captain Access 
 Param/Value/C446268A=Role: <c val="FFFF80">Doctor</c>
 Param/Value/C45BEB16=
 Param/Value/C4A70F3B=<c val="FF00FF">Player has won the game using Veteran Difficulty:</c> 
-Param/Value/C4D7DE99=<c val="FFFF00">Ship Jump Drive</c>: <c val="FF0000">Critical damage sustained. Evacuate FTL Drive.</c>
 Param/Value/C50084C0=Emulation Transformation<n/><n/><c val="FFFFFF">Transform back into your Viper form.</c><n/><n/><c val="0080C0">If done while inside a Crew Member's inventory, you will gain a +50% to all stats buff for 20 seconds.</c>
 Param/Value/C5029009=TYPES
-Param/Value/C5185C41=Mainframe
-Param/Value/C54583D0=Eligible For Mec: 
 Param/Value/C550AEFD=You are the technological officer. Your room is on the far right of the <c val="FF8000">Hangar</c> deck. You are in charge of the ship's FTL systems. <n/><n/>Power must be routed to the ship's FTL by the Engineer in order for it to function. Inside the FTL console you have the ability to select a destination. Once a destination is selected hit jump. Jump will initiate a 40 second preparation before entering warp. The jump can be canceled from the FTL console and the captain's system console during this stage. The ship's warp shield, the two switches inside the FTL room, should be activated during the preparation stage and kept on during the jump, else there will be severe negative effects. The switches cannot be activated once warp has initiated.
 Param/Value/C56F9F0C= <c val="FF8000">Asteroid detonation estimate: 3 minutes.</c>
 Param/Value/C5904EAD=Infest Ship Integrity 5
@@ -4993,6 +4995,7 @@ Param/Value/C6D000E6=Info
 Param/Value/C72FA4AF=. 
 Param/Value/C73173A8=. 
 Param/Value/C77CE676=<c val="FF0000">Name too long</c>
+Param/Value/C782170D=Eligible For Mec: 
 Param/Value/C7D469D6=<c val="FF0000">Player removed from Admin Chat</c>
 Param/Value/C7F673B3=<c val="FFFF00">Sensor Array</c>: <c val="FF0000">Unstable star detected. Estimated 3 minutes until Solar Flare</c>
 Param/Value/C80075FD= <c val="8000FF">is the Alien Host</c>
@@ -5000,13 +5003,13 @@ Param/Value/C8022B8F= was kicked from the game!
 Param/Value/C814F36D=Error. Aphaidia currently in warp.
 Param/Value/C83B62BA= 
 Param/Value/C862C529=Infest Reactor 2
+Param/Value/C88A1CE9=<c val="80FFFF">Role: Pilot</c></c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/C896818E=<c val="00FF00">Games Won Human:</c> 
 Param/Value/C898AA55=<c val="008000">Purchase Firmware and reboot at appropriate times [
 Param/Value/C899513B=<c val="00FF00">Security Sensor Array - Time of event</c> <c val="FFFF00">:</c> 
 Param/Value/C8DDBFDD=. 
 Param/Value/C91519B1=<c val="00FFFF">Genetic Analyzer:</c> Genetic Analysis Complete
 Param/Value/C94AAEE5= 
-Param/Value/C9E1F9D9=Engine
 Param/Value/CA05B90C=<c val="FF0000">Permission Denied. Requires Engineer, Security Chief, Lieutenant or Captain Access Level</c>
 Param/Value/CA51D74E=<c val="00FF00">THE THREAT TO HUMANITY HAS BEEN ELIMINATED!</c>
 Param/Value/CAA1351B=Infest Healthcare 3
@@ -5023,6 +5026,7 @@ Param/Value/CC4B9B46=<c val="00FF00">Estimated sector threat is low</c><n/><n/>
 Param/Value/CC82716D=Medical Bay
 Param/Value/CC9C40F4=Warp Coils 2
 Param/Value/CD1E3466=<c val="00FF40">Human</c>
+Param/Value/CD7F0325=Opted For LT: 
 Param/Value/CDA1CDDA=<c val="FFFF00">Sensor Array</c>: <c val="00FFFF">Scanning - Human...</c>
 Param/Value/CDC28B3E=<c val="FF0000">[LeftLastGame] </c>
 Param/Value/CDCF77B9= 
@@ -5036,9 +5040,9 @@ Param/Value/CECD035B=<c val="FFFF00">Janitor Room</c> <c val="FFFF80">-</c> <c v
 Param/Value/CF0EE4BC=<c val="FF8000">Tag is now shown</c>
 Param/Value/CF50027E= 
 Param/Value/CF9375CC=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Scan Failed. Reason: Sensor Array Damaged</c>
-Param/Value/CFAA2B63=<c val="80FFFF">Role: Pilot</c><n/><n/><c val="FFFFFF">Max number of assigned cobras increased by 1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/CFB358A3=
 Param/Value/D00A5505=<c val="80FFFF">Credit Income</c><n/><n/><c val="0080FF">Credit Income is increased by 40 for every Ship Upgrade purchased as its primary role. Credit income is increased by 6-1 for every unstable mineral processed.<n/><n/>Miners mining in space awards all crew members a flat amount of credits.</c><n/><n/><c val="00FFFF">Current Credit Income:</c><c val="FFFF00"> 
+Param/Value/D07A265E=<c val="80FFFF">Role: Pilot</c><n/><n/><c val="FFFFFF">Max number of assigned cobras increased by 1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/D09C886A=Space Operations 3
 Param/Value/D0D407F8=<c val="00FF00">Games Lost:</c> 
 Param/Value/D0D7112F=<c val="FF00FF">. Nerd.</c>
@@ -5056,10 +5060,11 @@ Param/Value/D294FFC4=<n/><c val="8000FF-ff00ff">CannonFodder</c> - Lead develope
 Param/Value/D2A18D35=<c val="FF8000">Hangar</c> <c val="FFFF80">-</c> <c val="804000">Lower Deck</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/D2BCFDF4=<c val="00FFFF">Random Name is now enabled</c>
 Param/Value/D2C80D45=<c val="FF8000">Gestation Chamber</c><n/><n/><c val="8000FF">Open the menu for alien items. </c><n/><n/><c val="0080C0">Items go into the inventory of the currently selected unit<n/>Items charges are refreshed on evolution</c>
-Param/Value/D2E5EEC1=Eligible For Captain: 
-Param/Value/D376DAE8=Asteroid Bay
+Param/Value/D3B2FF16=<c val="80FFFF">Role: Engineer</c><n/><n/><c val="0080FF">Your role is to get the ship's reactor upgraded. You are in charge of routing the ship's power to the various ship systems. Careful though, as if the reactor cannot provide the amount of power you are demanding, it will drain its batteries, and once those are drained, the reactor breaker will be tripped and it will go offline.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
+Param/Value/D3C70686=200
 Param/Value/D3D6B651=Error. Target above 50% HP.
 Param/Value/D41CCC2E=Player was Host
+Param/Value/D43A62FB=Opted For Captain: 
 Param/Value/D47D1202= 
 Param/Value/D48277AE=<c val="FF0000">Spacewalk Cam Box</c>
 Param/Value/D496EB65=<c val="FF0000">Access Denied. Requires Engineer, Technological Officer, Lieutenant, or Captain access levels.</c>
@@ -5080,10 +5085,12 @@ Param/Value/D7C2FAF6=Infest Reactor 4
 Param/Value/D87405B8=<c val="008000">Find and Target Alien players using the ship's security</c>
 Param/Value/D87AB5CE=<c val="400040">[Hive Mind]</c><c val="8000FF">: Firmware 5 Infested</c>
 Param/Value/D8B4F880=<c val="8000FF">Error. The game doesn't think this ship exists.</c>
-Param/Value/D92F0EA8=Armory
+Param/Value/D92CDDE5=Opted For Mec: 
+Param/Value/D92F0EA8=Port
 Param/Value/D9343E2E= infested</c>
 Param/Value/D9405789=. 
 Param/Value/D95E53D0=<c val="FF8000">Page 1:</c> 
+Param/Value/D979CBFD=Opted For Bio: 
 Param/Value/D9D4BC74=<c val="0000FF">ALL LIFE HAS BEEN ERADICATED, THERE ARE NO VICTORS.</c>
 Param/Value/D9DFAEA4=<c val="FF0000">, the <c val="8000FF">Alien Host</c>, has been killed!</c>
 Param/Value/DA9256A3=Healthcare 5
@@ -5091,7 +5098,6 @@ Param/Value/DAAEBE99=<c val="FF0000">Permission Denied. Requires Lieutenant or C
 Param/Value/DAC947FB=Hangar Infestations
 Param/Value/DAF27A54=<c val="FF8000">Page 2:</c> 
 Param/Value/DB4C56D2= is Human
-Param/Value/DB521081=Opted For Pilot: 
 Param/Value/DBCAB3A8=<c val="FF0000">Error. Mineral processor damaged</c>
 Param/Value/DC165BD4=TOTAL
 Param/Value/DC176842= is the Alien Host
@@ -5105,10 +5111,10 @@ Param/Value/DCAF95FC=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Er
 Param/Value/DCB2609E=<c val="800080">Admin</c>
 Param/Value/DD042519=<c val="FFFF00">Ship Mainframe</c>: <c val="FF0000">Jump Canceled</c>
 Param/Value/DD288ADA=You have been allied with the <c val="800080">Alien Minions</c>
-Param/Value/DD679EF7=<c val="80FFFF">Role: Captain</c><n/><n/><c val="0080FF">Your job is to coordinate the crew in trying to discover and eliminate the alien threat. The main location, which is the center of all that your role provides you, is on the ship's bridge. It is located in the center of the middle floor. From there you can designate targets for the ship's security system, view the ship's security cameras, and activate various ship systems.<n/><n/>You also have the job of upgrading the ship systems. These are located in the mainframe, which is located above the spawn room. You must research these upgrades in order to use certain ship systems from your console on the bridge.<n/><n/>Your card gives you access to every area on the ship, as well as most of the ship's systems, ensure it doesn't fall into alien hands.</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/DD803DC5=<c val="FF0000">Spacewalk</c><n/><s val="Tip"><k val="SmartCommand"/> to use</s>
 Param/Value/DD8D1B70=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/DD9C0B0D=<c val="FF0000">You have left Admin Chat</c>
+Param/Value/DDAF3756=200
 Param/Value/DDC98E31=<c val="00FF00">Handles</c><n/><n/><c val="008000">Lists all players in the current game</c><n/><n/><c val="00FF00">!Stats</c><n/><n/><c val="008000">Syntax: !Stats 1-3<n/><n/><c val="008000">Displays your game stats</c><n/><n/><c val="00FF00">!Destick</c><n/><n/><c val="008000">Teleports you to the middle of mid deck if it detects you're stuck on top of a cliff</c><n/><n/><c val="00FF00">!Name</c><n/><n/><c val="008000">Sets a custom name usuable in the next match by selecting the custom name option in lobby</c><n/><n/><c val="00FF00">!Vet</c><n/><n/><c val="008000">Usable in the first 30 seconds. Gives you -10% damage to Aliens. Displays an announcement if you survive until the end of the match as human.</c><n/></c><n/><c val="00FF00">!VoteKick</c><n/><n/><c val="008000">Syntax: !VoteKick 1-12<n/><n/>Vote to remove the observer. Number is in order of names displayed in handles</c>
 Param/Value/DDE689D5= is now marked as <c val="FF0000">Fake</c>
 Param/Value/DDF510A1=<c val="008080">Fix Reactor</c>
@@ -5138,6 +5144,7 @@ Param/Value/E17FD926=<c val="80FF80">Estimated threat is completely nonexistent<
 Param/Value/E1B2925C=Ship Integrity 2
 Param/Value/E1E6D285=Reaction Engines
 Param/Value/E1FEE6B1=<c val="400040">[Hive Mind]</c><c val="8000FF">: Automatic upgrade infestation <c val="800040">enabled</c>.
+Param/Value/E20DF325=<c val="80FFFF">Role: Weapons Officer</c><n/><n/><c val="0080FF">Your role is to get the ship's armory upgraded to full to allow humanity access to better weapons. You also have the task of operating the ship's weaponry to defend it against anything out in space.<n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/E2712201= is now unmarked as a <c val="FF0000">Teamkiller 2</c>
 Param/Value/E28A382C=/
 Param/Value/E2A685D2=Spawn
@@ -5156,6 +5163,7 @@ Param/Value/E56526A9=<c val="400000">HK-02</c>
 Param/Value/E578BB01=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/E584664E=<c val="00FF00">Spawned:</c>
 Param/Value/E5AD8EFE=One too many warps into this sector has left the barrier damaged. Everything within the sector has been swallowed whole by unspeakable beings.
+Param/Value/E5D7BB1D=Oxygen :
 Param/Value/E5F415C2=<c val="400040">[Hive Mind]</c><c val="8000FF">: Firmware 4 Infested</c>
 Param/Value/E5F7D6C7=Parasitic Blast<n/><n/><c val="8000FF">Disables all Mechanical Structures within the targeted area</c><n/><n/><c val="0080FF">Lasts 14 seconds.<n/>Creates creep in targeted area</c><n/><n/><c val="400040">Cannot be used by humans</c>
 Param/Value/E68F063E=Security 1
@@ -5169,7 +5177,10 @@ Param/Value/E78B2471=You cannot opt for <c val="800080">Successor</c>
 Param/Value/E7983C6D=<c val="FF0000">Permission Denied. Requires Engineer, Security Chief, Lieutenant or Captain Access Level</c>
 Param/Value/E7BD4D18=<c val="FFFF00">[Intercom]</c> 
 Param/Value/E80031B3=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
+Param/Value/E86A2788=Eligible For Pilot: 
 Param/Value/E88D9DCB=Infest Scan 2
+Param/Value/E89E58DE=Eligible For LT: 
+Param/Value/E8A568C3=Upper Bow
 Param/Value/E8AF9500=<c val="8000FF">[Team Killer]</c> 
 Param/Value/E8C04E8E=<c val="FF8000">Mech Bay Cam Box</c>
 Param/Value/E90A0BAF=<c val="00FF00">Human</c> chat [<c val="FFFFFF">Tab</c>]<n/>Click to toggle to speaking in <c val="8000FF">Alien</c> chat<n/><n/><c val="FFFF80">Radio Chat</c>: Limited to those within 15 range<n/><c val="FFFF80">Intercom</c>: Broadcasted to everyone on the map<n/><c val="FFFF80">Hivemind</c>: Messages are broadcasted to all Alien players<n/><n/><s val="Info">Stand near an intercom console to use</s>
@@ -5181,6 +5192,7 @@ Param/Value/E9DAF46D=<c val="8000FF">Infest Firmware 1</c>
 Param/Value/E9F76211=Firmware 4
 Param/Value/EA17EA71= <c val="8000FF">is the Original Alien Successor</c>
 Param/Value/EA1CE99B=Healthcare Infestations
+Param/Value/EAF5EF71=Eligible For Captain: 
 Param/Value/EB36ADBA=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/EB5046AB=<c val="8000FF">Raider AI - Party Create - No unused parties - Report this error</c>
 Param/Value/EB8F2144=<c val="008000">General Supplies</c><n/><s val="Tip"><k val="Selection"/> when near to use</s>
@@ -5219,7 +5231,6 @@ Param/Value/F241C823=<c val="FF0000">Access Denied. Requires Engineer, Technolog
 Param/Value/F283BFAB=You have unallied yourself with the <c val="800080">Alien Minions</c>
 Param/Value/F2F8FA8E=Warp Coils 4
 Param/Value/F308E1A9=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
-Param/Value/F41093D8=Eligible For Engi: 
 Param/Value/F422BAA8=<c val="FF8040">Biomass</c><n/><n/><c val="0080C0">Biomass is used by the <c val="800080">Alien Host</c> to evolve self and minions<n/><n/>Current Biomass Income:</c> <c val="FFFF80">107
 Param/Value/F44A0DF0=<c val="00FF00">Games Won Host:</c> 
 Param/Value/F485D289=Fix the Oxygen Filters located in the reactor
@@ -5231,14 +5242,12 @@ Param/Value/F5A8A7B3=Credit
 Param/Value/F5BD8647=<c val="FFFF00">Ship Jump Drive</c>: <c val="00FFFF">Jumping in: </c>
 Param/Value/F5D94C0B=: 
 Param/Value/F5E897E1=<c val="FF00FF">Player has won the game using Veteran Difficulty:</c> 
-Param/Value/F5F05197=Who Opted for what: 
 Param/Value/F60F5599=<c val="FF0000">[NameBan] </c>
 Param/Value/F654F807= #
 Param/Value/F65B1D5E=<c val="FFFF00">Mechanized Security:</c> <c val="FF0000">Error. Connection with Mechanized Security Unit not found</c>
 Param/Value/F68774D7=Commissioner
 Param/Value/F68FF6D8=<c val="FF8000">Tractor Bay</c>: Bay: 
 Param/Value/F69A6ECF=<c val="FF8000">Observer</c> chat<n/><n/><c val="FFFF80">Observer:</c> Messages are only sent to other Observers<n/><n/><s val="Info">You have died and are now observing the game</s>
-Param/Value/F7A20870=Eligible For Doctor: 
 Param/Value/F88C2942=<c val="FF8000">Tractor Bay</c>: Bay: 
 Param/Value/F8A87EAC=test
 Param/Value/F8B3538B=Minor amount of low quality minerals detected.<n/><n/>A lone energy slug prowls this sector.
@@ -5271,14 +5280,24 @@ Param/Value/FD62C57B=<c val="FF8000">Tractor Bay</c>: Bay:
 Param/Value/FD69E075=. 
 Param/Value/FD81538A=Error. Exterminator hatch is locked.
 Param/Value/FDC904AC=<c val="00FF00">Handles:</c> 
-Param/Value/FE67968A=Storage
 Param/Value/FE87BB64=. 
+Param/Value/FEAA2BCD=<c val="80FFFF">Role: Miner</c><n/><n/><c val="FFFFFF">Piloted Starwanderers have +0.5 movement speed<n/>Life armor increased by +1</c><n/><n/><c val="00FFFF">Type !role into chat to have places important to your role pinged.</c>
 Param/Value/FEBA2B10=Successor not alive, and aliens alive have opted alien, picking from them
 Param/Value/FEE3252E=: 
 Param/Value/FEFA4876=<c val="FF0000">Warp switch toggle in effect</c>
 Param/Value/FF784462=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/FFB37A74=<c val="FFFF00">Mechanized Security:</c></c> <c val="FF0000">MSU Damaged. Cannot receive order.</c>
 Param/Value/FFF437EC=Chat Commands
+Param/Value/lib_3_007016DD=<c val="FF8000">Starboard</c>
+Param/Value/lib_3_013ADFEA=<c val="FF8000">Lower Bow</c>
+Param/Value/lib_3_0310FF5B=<c val="FF8000">Reactor</c>
+Param/Value/lib_3_0735AC70=<c val="FF8000">Xenobiology</c>
+Param/Value/lib_3_1037BC44=<c val="FF8000">Port</c>
+Param/Value/lib_3_2BDA01B6=<c val="FF8000">Stern</c>
+Param/Value/lib_3_4F93AF95=<c val="FF8000">Bridge</c>
+Param/Value/lib_3_5D40BAAD=<c val="FF8000">Upper Bow</c>
+Param/Value/lib_3_B04F915A=<c val="FF8000">Hangar</c>
+Param/Value/lib_3_EF549245=<c val="FF8000">Medical Bay</c>
 Race/Name/Prot=Warlock
 Race/Name/Terr=Human
 Race/Name/Zerg=Alien
@@ -5956,6 +5975,7 @@ Unit/Name/SymbioticCollective=Symbiotic Collective
 Unit/Name/SystemsConsole=Systems Console
 Unit/Name/TargetingConsole=Targeting Console
 Unit/Name/TargetingConsole2=Security Camera
+Unit/Name/TechReactor=Aphaidia Region Unit
 Unit/Name/TechnoCard=<c val="FF8000">Technological Officer's Card</c>
 Unit/Name/TechnologicalOfficersCard=Technological Officer's Card
 Unit/Name/TechnologicalOfficersCardFake=Technological Officer's Card
