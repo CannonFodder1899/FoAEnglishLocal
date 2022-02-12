@@ -1488,7 +1488,7 @@
 [LocalizedData/GameStrings.txt]Button/Name/RepairKit=Ремонтный комплект
 [LocalizedData/GameStrings.txt]Button/Name/ResearchParasiticInfestationVaccine=Research Parasitic Infestation Vaccine
 [LocalizedData/GameStrings.txt]Button/Name/ResearchXenoplagueVaccine=Произвести вакцину против ксеночумы
-[LocalizedData/GameStrings.txt]Button/Name/ResetAlliances=Reset Alliances
+[LocalizedData/GameStrings.txt]Button/Name/ResetAlliances=Сбросить союзничество
 [LocalizedData/GameStrings.txt]Button/Name/ResetMimicry=Сбросить мимикрию
 [LocalizedData/GameStrings.txt]Button/Name/Resource0=Resource0
 [LocalizedData/GameStrings.txt]Button/Name/Resource02=Resource1
@@ -1767,7 +1767,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/BurrowDown=<c val="8000FF">Закапывание единицы под землю.</c><n/><n/><c val="0080C0">Закопанные единицы невозможно увидеть без обнаружения.</c><n/><n/><c val="FF8080">Не может двигаться, находясь в закопанном состоянии.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/BurrowDownMoveable=<c val="8000FF">Buries the unit underground.</c><n/><n/><c val="0080C0">Buried units cannot be seen without detection.<n/><n/>Can move while burrowed.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/BurrowUp=<c val="8000FF">Returns the unit to the surface.</c>
-[LocalizedData/GameStrings.txt]Button/Tooltip/C14GaussRifle=<c val="0080C0">Standard issue Gauss Rifle.</c><c val="FFFFFF"><n/><n/>Damage: <c val="FFFF00"><d ref="Effect,RaynorLabWeaponDisplay,Amount" precision="1"/></c><n/> vs <c val="400080">Alien</c>: <c val="FFFF00"><d ref="(Effect,RaynorLabWeaponDisplay,[LocalizedData/GameStrings.txt]AttributeBonus[Hover])+(Effect,RaynorLabWeaponDisplay,Amount) + ((Effect,RaynorLabWeaponDisplay,Amount)*(Effect.RaynorLabWeaponDisplay,[LocalizedData/GameStrings.txt]AttributeFactor[Hover])) " precision="1"/></c><n/><n/>Дальность: <c val="FFFF00"><d ref="Weapon,RaynorLabWeapon,Range" precision="1"/><n/></c>Скорострельность оружия: <c val="FFFF00"><d ref="Weapon,RaynorLabWeapon,Period" precision="2"/></c><n/>Потеря урона на броню: <c val="FFFF00"><d ref="Effect,RaynorLabWeaponDisplay,ArmorReduction" precision="2"/></c><n/>Цели: <c val="FFFF00">воздушные и наземные</c></c><n/><n/><c val="808080">Конструкции более 300 лет, и её возможности как оружия свидетельствуют об этом.<n/><n/>Этот набор оружия Гаусса C-14 на этом корабле, похоже, был взят из музея.</c>
+[LocalizedData/GameStrings.txt]Button/Tooltip/C14GaussRifle=<c val="0080C0">Стандартная винтовка Гаусса.</c><c val="FFFFFF"><n/><n/>Урон: <c val="FFFF00"><d ref="Effect,RaynorLabWeaponDisplay,Amount" precision="1"/></c><n/>По <c val="400080">чужим</c>: <c val="FFFF00"><d ref="(Effect,RaynorLabWeaponDisplay,[LocalizedData/GameStrings.txt]AttributeBonus[Hover])+(Effect,RaynorLabWeaponDisplay,Amount) + ((Effect,RaynorLabWeaponDisplay,Amount)*(Effect.RaynorLabWeaponDisplay,[LocalizedData/GameStrings.txt]AttributeFactor[Hover])) " precision="1"/></c><n/><n/>Дальность: <c val="FFFF00"><d ref="Weapon,RaynorLabWeapon,Range" precision="1"/><n/></c>Скорострельность оружия: <c val="FFFF00"><d ref="Weapon,RaynorLabWeapon,Period" precision="2"/></c><n/>Потеря урона на броню: <c val="FFFF00"><d ref="Effect,RaynorLabWeaponDisplay,ArmorReduction" precision="2"/></c><n/>Цели: <c val="FFFF00">воздушные и наземные</c></c><n/><n/><c val="808080">Конструкции более 300 лет, и её возможности как оружия свидетельствуют об этом.<n/><n/>Этот набор оружия Гаусса C-14 на этом корабле, похоже, был взят из музея.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/C17CompactRifle=<c val="0080C0">Стреляет тремя выстрелами подряд. Плохо пробивает броню.</c><c val="FFFFFF"><n/><n/>Урон: <c val="FFFF00"><d ref="Effect,C17CompactRifleDamageDisplay,Amount"/><n/></c>По <c val="400080">чужим</c>: <c val="FFFF00"><d ref="(Effect,C17CompactRifleDamageDisplay,[LocalizedData/GameStrings.txt]AttributeBonus[Hover])+(Effect,C17CompactRifleDamageDisplay,Amount) + ((Effect,C17CompactRifleDamageDisplay,Amount)*(Effect.C17CompactRifleDamageDisplay,[LocalizedData/GameStrings.txt]AttributeFactor[Hover]))" precision="3"/><n/></c><n/>Дальность: <c val="FFFF00"><d ref="Weapon,C17CompactRifle,Range" precision="2"/><n/></c>Скорострельность оружия: <c val="FFFF00"><d ref="[LocalizedData/GameStrings.txt]Behavior,C17RifleReloading,Duration" precision="1"/><n/></c>Количество выстрелов: <c val="FFFF00"><d ref="Weapon,C17CompactRifle,DisplayAttackCount" precision="2"/></c><n/>Потеря урона на броню: <c val="FFFF00"><d ref="Effect,C17CompactRifleDamageDisplay,ArmorReduction" precision="2"/></c><n/>Цели: <c val="FFFF00">воздушные и наземные</c></c><n/><n/><n/><c val="808080">Архаичное многоцелевое оружие, разработанное для подавления мятежей и бунтов.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/C17CompactRifleUpgrades=<c val="FFFFFF">Открыть меню улучшения для карабина C-17</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/C19GaussAmmo=Может использоваться для перезарядки турелей Гаусса C-19.<n/><n/><c val="808080">Толстый слой ржавчины покрывает поверхность, что говорит о неправильном хранении.</c>
@@ -1852,7 +1852,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/DimensionalCleave=<c val="8000FF">Перетащить все единицы, попавшие в целевую область, по измерениям.</c><n/><n/><c val="0080C0">Если в обычной реальности, втягивает целевые единицы в карманное измерение. Если в карманном измерении, вытаскивает их обратно. Мироходец следует за целевыми единицами.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/DimensionalRift=Самоподдерживающаяся дыра в реальности. Уничтожьте её, иначе корабль будет заполнен зверями искривления.
 [LocalizedData/GameStrings.txt]Button/Tooltip/DisableMainframeAnnouncements=Disables all outgoing mainframe announcements.
-[LocalizedData/GameStrings.txt]Button/Tooltip/DisconnectWarpFailsafe=<c val="FFFFFF">Disconnect the Cancel Warp button from the Aphaidia's FTL drive</c><n/><n/><c val="0080FF">Warps can no longer be canceled</c><n/><n/><c val="808080">It says not to do this. It doesn't mention why. What's the worst that can happen? You're the last one left, afterall...</c>
+[LocalizedData/GameStrings.txt]Button/Tooltip/DisconnectWarpFailsafe=<c val="FFFFFF">Отключить кнопку отмены искривления от привода гиперскорости Афайдии</c><n/><n/><c val="0080FF">Искривления больше не смогут быть отменены</c><n/><n/><c val="808080">Там сказано, что этого делать не следует. Не сказано, почему. Что самое худшее может случиться? Вы последний, кто задался этим вопросом, в конце концов...</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/DisguisePlayer=Disguise the targeted player as your last sampled player.
 [LocalizedData/GameStrings.txt]Button/Tooltip/DoctorsCard=Allows access to the ship's genetics room. <n/><n/>Enables sealing of ship airlocks.
 [LocalizedData/GameStrings.txt]Button/Tooltip/DoctorsCardFake=Allows access to the ship's genetics room. <n/><n/>Enables sealing of ship airlocks.
@@ -1937,7 +1937,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/Firmware15=<c val="00FF00">+30 доход металлолома для всех игроков</c><n/><n/><c val="008000">Основная роль: Лейтенант<n/>Дополнительная роль: Капитан, лейтенант</c></c><n/><c val="FF8000"><n/>[Бонус лейтенанту, капитану]:<n/><n/>+50 доход металлолома для всех игроков</c><n/><n/><c val="800088">[Бонус лейтенанту, капитану чужих]:<n/><n/>Время тика дохода установлено на 15 секунд</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/FlameThrower=<c val="0080C0">Короткоствольное огнестрельное оружие. Поджигает землю в месте попадания.</c><c val="FFFFFF"><n/><n/>Урон: <c val="FFFF00"><d ref="Effect,FlamerDamage,Amount" precision="1"/></c><n/>По биологическим целям: <c val="FFFF00"><d ref="(Effect,FlamerDamage,Amount)+Effect,FlamerDamage,[LocalizedData/GameStrings.txt]AttributeBonus[Biological]" precision="1"/><n/></c>По <c val="400080">чужим</c>: <c val="FFFF00"><d ref="(Effect,FlamerDamage,Amount,[LocalizedData/GameStrings.txt]AttributeBonus[Hover])+(Effect,FlamerDamage,Amount,Amount) + ((Effect,FlamerDamage,Amount,Amount)*(Effect.FlamerDamage,Amount,[LocalizedData/GameStrings.txt]AttributeFactor[Hover]))" precision="3"/></c><n/><n/>Дальность: <c val="FFFF00">4.5</c><n/>Скорострельность оружия: <c val="FFFF00">0.12</c><n/>Потеря урона на броню: <c val="FFFF00"><d ref="Effect,FlamerDamageDisplay,ArmorReduction" precision="2"/></c><n/>Цели: <c val="FFFF00">наземные</c></c><n/><n/><c val="FF0000">Не работает в вакууме.</c><c val="808080">Самодельный инструмент обработки, обычно используемый торговцами для уничтожения ксенопаразитов, которые проникают на борт во время путешествий.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/FlameThrowerUpgrades=<c val="FFFFFF">Открыть меню улучшения огнемёта</c>
-[LocalizedData/GameStrings.txt]Button/Tooltip/Flashlight=<c val="FFFFFF">Can be toggled on/off.</c><n/><n/><c val="0080FF">Allows easier travel and sight within vents.<n/><n/>Grants vision of you to all nearby players<n/><n/><n/><c val="808080">Originally built into the standard issue suit, it is now a separate accessory ever since higher ups realized they could make recruits pay even more money.</c><n/>
+[LocalizedData/GameStrings.txt]Button/Tooltip/Flashlight=<c val="FFFFFF">Можно включить/выключить.</c><n/><n/><c val="0080FF">Позволяет легче перемещаться и видеть внутри вентиляций.<n/><n/>Даёт возможность видеть вас всем игрокам, находящимся поблизости<n/><n/><n/><c val="808080">Изначально встроенный в стандартный костюм, сейчас он является отдельным аксессуаром с тех пор, как высшие чины поняли, что могут заставить новобранцев платить ещё больше денег.</c><n/>
 [LocalizedData/GameStrings.txt]Button/Tooltip/Fortification=Provides supply.<n/>Supply allows you to create more units.<n/>Supply Depots can be lowered to allow units to walk over them.
 [LocalizedData/GameStrings.txt]Button/Tooltip/FragmentationGrenade=<c val="FFFFFF">Бросить гранату, создающую облако токсичного газа. Действует 15 секунд.</c><n/><n/><c val="FFFFFF">Урон: <c val="FFFF00"><d ref="Effect,ToxicGasTurretDamage,Amount"/></c><n/>Время действия: <c val="FFFF00"><d ref="[LocalizedData/GameStrings.txt]Behavior,ToxicGasTurret,Period" precision="2"/></c><n/><n/><c val="808080">На Афаидии имеется гораздо больше запасов токсичного газа, чем может быть использовано токсинными турелями. Контейнеры настолько хрупкие, что при броске разбиваются при ударе. Они хорошо подходят в качестве самодельной гранаты.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/FrequencyDoubler=<c val="00FF00">Урон от призматической винтовки против бронированных целей +40</c><n/><n/><c val="FF0000">На одно оружие можно приобрести только одно улучшение</c>
@@ -1951,7 +1951,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/GeneticSampleAlien=Проанализированный генетический образец. <c val="FF0000">ОСТОРОЖНО, ОБНАРУЖЕН НЕОПОЗНАННЫЙ ВИД ДНК</c><n/><n/><c val="0080C0">Текстовое сообщение при выборе для применения этикетки</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/GeneticSampleHuman=<c val="00FF00">Проанализированный генетический образец. Никаких отклонений не обнаружено.</c><n/><n/><c val="0080C0">Текстовое сообщение при выборе для применения этикетки</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/GeneticSampler=<c val="FFFFFF">Инструмент для сбора генетических образцов. Используется на человеке для получения генетического образца для использования в генетическом анализаторе.</c><n/><n/><c val="808080">Размер игл был общей жалобой среди опрошенных. К сожалению, жалобы запутались в бюрократической структуре, в результате чего они приняли, что размер игл необходимо увеличить. Как укус комара...</c>
-[LocalizedData/GameStrings.txt]Button/Tooltip/GeneticScanner=<c val="FFFFFF">Can be toggled on/off.<n/><n/>Sample complete:</c> <c val="FFFF00"><d ref="Effect,GeneticScannerTrackerDummy,Amount"/>%<n/></c><n/><c val="0080FF">All nearby aliens will be scanned on death. Once sufficient genetic data is gathered a alien tissue sample will be dropped. Tissue samples used for Xeno Biology research.
+[LocalizedData/GameStrings.txt]Button/Tooltip/GeneticScanner=<c val="FFFFFF">Можно включить/выключить.<n/><n/>Образец выполнен:</c> <c val="FFFF00"><d ref="Effect,GeneticScannerTrackerDummy,Amount"/>%<n/></c><n/><c val="0080FF">Все близлежащие чужие будут просканированы после смерти. Как только будет собрано достаточно генетических данных, образец ткани чужого будет сброшен. Образцы тканей используются для исследований ксенобиологии.
 [LocalizedData/GameStrings.txt]Button/Tooltip/GestationChamber=Enables the purchase of special items for alien forms to use.
 [LocalizedData/GameStrings.txt]Button/Tooltip/Glitch=Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>Ошибка<n/>
 [LocalizedData/GameStrings.txt]Button/Tooltip/Grenades=<c val="FFFFFF">Открыть меню выбора гранат</c>
@@ -2073,7 +2073,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicalOfficersCard=Позволяет получить доступ к меххранилищу на корабле.
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicalOfficersCardFake=Позволяет получить доступ к меххранилищу на корабле.
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay1=<c val="00FF00">Включает механизированного робота охраны 01<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>МРО получают дополнительные 500 жизней<n/>МРО получают дополнительные 2 брони<n/></c><n/><c val="800080">[Бонус офицеру-механику, инженеру, лейтенанту чужим]:<n/><n/>Как только механический отсек 3 будет приобретён, МРО-01 станет заражённым.<n/><n/>Заражённые МРО получают 500 жизней<n/>Заражённые МРО получают 2 брони
-[LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay2=<c val="00FF00">Включает механизированного робота охраны 02<n/>Механизированные роботы охраны могут быть настроены<n/>Управление механическим отсеком теперь даёт возможность видеть МРО<n/><n/>Открывает ремонтные боты АРС<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>Настройка МРО бесплатна<n/>МРО получают дополнительные 500 жизней<n/>МРО получают дополнительную 1 броню<n/>МРО получают +20% урона по чужим<n/><n/>Ремонтные боты АРС получают +100 ед. здоровья.<n/>Ремонтные боты АРС получают +1 броню<n/>Ремонтные боты АРС получают +0.25 регенерации жизни<n/>Ремонтные боты АРС получают +50% скорости ремонта<n/>Ремонтные боты АРС стоят на 250 меньше металлолома</c><n/><n/><c val="800080">[Бонус офицеру-механику, инженеру, лейтенанту чужим]:<n/><n/>Как только механический отсек 3 будет приобретён, МРО-02 станет заражённым.<n/><n/>20%-ная прибавка урона для МРО будет инвертирована<n/>МРО получают +20% прибавку к урону по биологическим целям<n/>Заражённые МРО получают 500 жизней<n/>Заражённые МРО получают 1 броню<n/><n/>Ремонтные боты АРС начнут деконструкцию систем безопасности Афайдии
+[LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay2=<c val="00FF00">Включает механизированного робота охраны 02<n/>Механизированные роботы охраны могут быть настроены<n/>Управление механическим отсеком теперь даёт возможность видеть МРО<n/><n/>Открывает ремонтные боты АРС<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>Настройка МРО бесплатна<n/>МРО получают доп. 500 жизней<n/>МРО получают дополнительную 1 броню<n/>МРО получают +20% урона по чужим<n/><n/>Ремонтные боты АРС получают +100 ед. здоровья.<n/>Ремонтные боты АРС получают +1 броню<n/>Ремонтные боты АРС получают +0.25 регенерации жизни<n/>Ремонтные боты АРС получают +50% скорости ремонта<n/>Ремонтные боты АРС стоят на 250 меньше</c><n/><n/><c val="800080">[Бонус офицеру-механику, инженеру, лейтенанту чужим]:<n/><n/>Как только механический отсек 3 будет приобретён, МРО-02 станет заражённым.<n/><n/>20% урон для МРО будет инвертирован<n/>МРО получают +20% прибавку к урону по биологическим целям<n/>Заражённые МРО получают 500 жизней<n/>Заражённые МРО получают 1 броню<n/><n/>Ремонтные боты АРС начнут деконструкцию систем безопасности Афайдии
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay3=<c val="00FF00">Включает механизированного робота охраны 03<n/><n/>Разблокирует дополнительные возможности настройки для МРО<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>Дополнительные настройки МРО бесплатны<n/><n/>Время маршрута МРО сокращено на 40 секунд<n/><n/>МРО получают дополнительные 500 жизней<n/>МРО получают дополнительную 1 броню<n/>МРО получают +20% урона по пришельцам</c><n/><n/><c val="800080">[Бонус офицеру-механику, инженеру, лейтенанту чужим]:<n/><n/>МРО-03 будет заражён.<n/><n/>20%-ная прибавка урона для МРО будет инвертирована<n/>МРО получают +20% прибавку к урону по биологическим целям<n/><n/>Заражённые МРО получают 500 жизней<n/>Заражённые МРО получают 1 броню
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay4=<c val="00FF00">Включает орудия «Убийца-охотник» Афайдии<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>Броня «Убийц-охотников» увеличена на 5<n/>Урон «Убийц-охотников» по чужим +33%<n/><n/><c val="800080">[Бонус офицеру-механику, инженеру, лейтенанту чужим]:<n/><n/>«Убийцы-охотники» становятся на сторону чужих и будут автоматически выслеживать и убивать всех людей.<n/><n/>Урон «Убийц-охотников» по биологическим целям +50%
 [LocalizedData/GameStrings.txt]Button/Tooltip/MechanicsBay5=<c val="00FF00">Разблокирует разрушителя «Икарус»<n/><n/><c val="008000">Основная роль: Офицер-механик<n/>Дополнительная роль: Инженер, лейтенант<n/></c><n/><c val="FF8000">[Бонус офицеру-механику, инженеру, лейтенанту]:<n/><n/>Энергия разрушителя «Икарус» увеличена на 3
@@ -2239,7 +2239,7 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/ResearchParasiticInfestationVaccine=<c val="00FF00">Enables the production of the Parasitic Infestation Vaccine.</c><n/><n/><c val="FF8000">[Biologist, Doctor Bonus]:<n/><n/>Vaccine production cost decreased by 500</c><n/><n/><c val="800080">[Alien Bonus]<n/><n/>If both Parasitic Infestation and Xenoplague have Vaccines researched, enables them to be combined into Viral Parasitic Infestation</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/ResearchXenoplagueVaccine=<c val="00FF00">Enables the production of the Xenoplague Vaccine.</c><n/><n/><c val="FF8000">[Biologist, Doctor Bonus]:<n/><n/>Vaccine production cost decreased by 500</c><n/><n/><c val="800080">[Alien Bonus]<n/><n/>If both Parasitic Infestation and Xenoplague have Vaccines researched, enables them to be combined into Viral Parasitic Infestation</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/ResetAlliances=<c val="FFFFFF">Сбрасывает всё союзничество со всеми остальными членами экипажа</c><n/><n/><c val="FF0000">Нельзя использовать в бою.</c>
-[LocalizedData/GameStrings.txt]Button/Tooltip/ResetMimicry=<c val="8000FF">Return to your form's original voice</c>
+[LocalizedData/GameStrings.txt]Button/Tooltip/ResetMimicry=<c val="8000FF">Вернуть первоначальный голос вашей формы</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/RevertChangeling=<c val="8000FF">Revert back to original form</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/RevertMorph=<c val="8000FF">Cancel the current morph and revert back to alien form.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/RoachPossessed=Assault unit. Regenerates life quickly when burrowed. Can morph into a Ravager.<n/><n/><c val="ffff8a">Can attack ground units.</c>
@@ -2357,18 +2357,18 @@
 [LocalizedData/GameStrings.txt]Button/Tooltip/SynthesizeWolf=<c val="FFFFFF">Синтезация волка.</c><n/><n/><c val="FF0000">Требуется биомасса</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/SynthesizeXenoBiomass=<c val="0080FF">Synthetizes Xeno Biomass from the first samples taken, creates a small quantity of alien minions.</c> <c val="FF0000"><n/></n>Use at your own risk.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/SystemsReboot=<c val="FFFFFF">Инициирует перезагрузку систем<n/><n/>Применяет все обновления прошивки для систем корабля<n/><n/>Занимает 80 секунд</c><n/><n/><c val="FF0000">На время перезагрузки питание корабля будет отключено. После запуска его нельзя остановить, иначе системы корабля будут повреждены</c>
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer1=Приказать автоматическим системам безопасности корабля нацелиться на Player 1
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer110=Приказать автоматическим системам безопасности корабля нацелиться на Player 10
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer111=Приказать автоматическим системам безопасности корабля нацелиться на Player 11
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer112=Приказать автоматическим системам безопасности корабля нацелиться на Player 12
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer12=Приказать автоматическим системам безопасности корабля нацелиться на Player 2
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer13=Приказать автоматическим системам безопасности корабля нацелиться на Player 3
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer14=Приказать автоматическим системам безопасности корабля нацелиться на Player 4
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer15=Приказать автоматическим системам безопасности корабля нацелиться на Player 5
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer16=Приказать автоматическим системам безопасности корабля нацелиться на Player 6
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer17=Приказать автоматическим системам безопасности корабля нацелиться на Player 7
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer18=Приказать автоматическим системам безопасности корабля нацелиться на Player 8
-[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer19=Приказать автоматическим системам безопасности корабля нацелиться на Player 9
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer1=Приказать автоматическим системам безопасности корабля нацелиться на игрока 1
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer110=Приказать автоматическим системам безопасности корабля нацелиться на игрока 10
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer111=Приказать автоматическим системам безопасности корабля нацелиться на игрока 11
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer112=Приказать автоматическим системам безопасности корабля нацелиться на игрока 12
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer12=Приказать автоматическим системам безопасности корабля нацелиться на игрока 2
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer13=Приказать автоматическим системам безопасности корабля нацелиться на игрока 3
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer14=Приказать автоматическим системам безопасности корабля нацелиться на игрока 4
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer15=Приказать автоматическим системам безопасности корабля нацелиться на игрока 5
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer16=Приказать автоматическим системам безопасности корабля нацелиться на игрока 6
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer17=Приказать автоматическим системам безопасности корабля нацелиться на игрока 7
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer18=Приказать автоматическим системам безопасности корабля нацелиться на игрока 8
+[LocalizedData/GameStrings.txt]Button/Tooltip/TargetIDPlayer19=Приказать автоматическим системам безопасности корабля нацелиться на игрока 9
 [LocalizedData/GameStrings.txt]Button/Tooltip/TechnologicalOfficersCard=<c val="FFFFFF">Allows access to the ship's FTL room. Authorizes operation of ship FTL.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/TechnologicalOfficersCardFake=<c val="FFFFFF">Allows access to the ship's FTL room. Authorizes operation of ship FTL.</c>
 [LocalizedData/GameStrings.txt]Button/Tooltip/TelescopicScope=<c val="00FF00">Увеличение дальности оружия на 4<n/><n/>Увеличивает дальность обзора во время экипировки на 4</c><n/><n/><c val="FF0000">На одно оружие можно приобрести только одно улучшение</c>
@@ -4133,7 +4133,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/1DFCB710= успешно вернулся на склад
 [LocalizedData/GameStrings.txt]Param/Value/1E691D24=<c val="FF0000">В доступе отказано. Требуется уровень допуска начальника службы безопасности</c>
 [LocalizedData/GameStrings.txt]Param/Value/1E6E7DA3=<c val="FFFF00">Главный компьютер корабля:</c> <c val="FF0000">Невозможно перезагрузить системы корабля. Причина: Главный компьютер корабля повреждён</c>
-[LocalizedData/GameStrings.txt]Param/Value/1E78F6AE=You have unallied your avatar with the <c val="800080">Alien Minions</c>
+[LocalizedData/GameStrings.txt]Param/Value/1E78F6AE=Вы отвязали свой аватар с <c val="800080">приспешниками чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/1EDC8CCD=<c val="008080">Починить радиационный фильтр</c>
 [LocalizedData/GameStrings.txt]Param/Value/1F4EE0C3=<c val="FF0000">Выход в открытый космос</c><n/><s val="Tip"><k val="SmartCommand"/> для использования</s>
 [LocalizedData/GameStrings.txt]Param/Value/1F8018FE=<c val="FFFF00">Механизированная охрана:</c> 
@@ -4156,6 +4156,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/22105158=<c val="FF8000">МРО-02</c>
 [LocalizedData/GameStrings.txt]Param/Value/22198C02=<c val="FF0000">В доступе отказано. Требуется уровень допуска инженера, лейтенанта, офицера безопасности или капитана</c>
 [LocalizedData/GameStrings.txt]Param/Value/2227AFAB=Реактор
+[LocalizedData/GameStrings.txt]Param/Value/223117EF=: возвращение на склад
 [LocalizedData/GameStrings.txt]Param/Value/226256BC=/2]</c>
 [LocalizedData/GameStrings.txt]Param/Value/22716268=<c val="800080">Порождение чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/22A632E1=Шаблон 3
@@ -4169,14 +4170,16 @@
 [LocalizedData/GameStrings.txt]Param/Value/23F6F8A6=Носитель эволюционировал
 [LocalizedData/GameStrings.txt]Param/Value/24495B52=<c val="FF0000">Доступ запрещён. Требуется уровень допуска офицера-механика, капитана или лейтенанта.</c>
 [LocalizedData/GameStrings.txt]Param/Value/24C7A530=<c val="FFFF00">Прыжковый привод корабля</c>: <c val="800000">Прыжок через: </c>
-[LocalizedData/GameStrings.txt]Param/Value/24FF200A=<c val="FF0000">THE APHAIDIA HAS BEEN DESTROYED! ALL LIFE IN THE SECTOR WILL PERISH!</c>
+[LocalizedData/GameStrings.txt]Param/Value/24FF200A=<c val="FF0000">АФАИДИЯ УНИЧТОЖЕНА! ВСЁ ЖИВОЕ В СЕКТОРЕ ПОГИБНЕТ!</c>
 [LocalizedData/GameStrings.txt]Param/Value/2525C0EF=Вооружение 1
+[LocalizedData/GameStrings.txt]Param/Value/2537309F=<c val="FFFF00">Механизированная охрана</c>: 
 [LocalizedData/GameStrings.txt]Param/Value/25619CA9=<c val="FF0000">ВЫ БЫЛИ ЗАГЛУШЕНЫ</c>
 [LocalizedData/GameStrings.txt]Param/Value/2657C21D= УК
 [LocalizedData/GameStrings.txt]Param/Value/265D3BDD=<c val="00FF00">Игр за носителя:</c> 
 [LocalizedData/GameStrings.txt]Param/Value/26BEF780=<n/>Вы - последователь чужих. Вы станете носителем чужих, если нынешний носитель чужих умрёт. <n/><n/>Ваша цель - уничтожить всех людей на борту этого корабля. Вы неизвестны им, используйте этот факт в своих интересах. Как только они узнают, кто вы, они убьют вас.<n/><n/><c val="800080">Чат чужих:</c><n/><n/>Чат переключается кнопкой рядом с панелью чата или нажатием клавиши (Tab), когда чат закрыт. Если говорить в чате чужих, то сообщение будет отправлено глобально всем игрокам чужих.<n/><n/><c val="800080">Саботаж:</c><n/><n/>Вокруг корабля расположено множество систем. Радиационный щит, генератор щита, главный компьютер, система связи и многое другое. Нарушение этих систем создаст опасность или иным образом помешает людям.<n/><n/>Вы также можете заражать улучшения Афайдии, создавая различные эффекты, которые помогут вам в вашей задаче по уничтожению людей. Действие каждого улучшения при заражении отображается во всплывающей подсказке.<n/><n/>Определённые постройки на Афайдии могут иметь сужения, наложенные на них личинкой носителя чужих.<n/><n/><c val="800080">Порождение:</c><n/><n/>Любой человек, убитый либо непосредственно вами в форме чужого, либо вашими порождениями, либо другими чужими, будет превращён в порождение чужого. Чужие больше не могут порождать людей на 4 уровне и выше.<n/><n/><c val="800080">Биомасса:</c><n/><n/>Биомасса пассивно накапливается со временем. Каждое созданное вами порождение уменьшает ваш доход от биомассы.<n/><n/>Биомасса носителя чужих используется для эволюции и улучшения приспешников чужих.
 [LocalizedData/GameStrings.txt]Param/Value/26D52BD0=<c val="FFFF00">Главный компьютер корабля</c>: <c val="FF0000">Ядерный реактор отключён</c>
 [LocalizedData/GameStrings.txt]Param/Value/26DFECBE=: 
+[LocalizedData/GameStrings.txt]Param/Value/26FC1073=<c val="00FFFF">Корабельные системы перезагружаются и применяют все обновления прошивки. Пожалуйста, подождите</c>
 [LocalizedData/GameStrings.txt]Param/Value/26FC1916=<c val="FFFF00">[Трансляция]</c>: Вся чужеродная биомасса будет уничтожаться без разбора.
 [LocalizedData/GameStrings.txt]Param/Value/2739704B=Управление реактором возвращено в норму
 [LocalizedData/GameStrings.txt]Param/Value/273D0E31=Обнаружено большое высококачественное минеральное поле. <n/><n/>В этом секторе обнаружена обширная незаконная добыча полезных ископаемых.
@@ -4230,7 +4233,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/2F8ECCA7=Обнаружено незначительное минеральное поле среднего качества.<n/><n/>Обнаружено массивное газовое облако. Не опасно. Обитают птерагантуанцы.
 [LocalizedData/GameStrings.txt]Param/Value/302B15E3=<c val="FFFF00">Главный компьютер корабля</c>: <c val="FF0000">Отмена прыжка выполнена. Приняты экстренные меры. Целостность корпуса Афайдии нарушена.</c>
 [LocalizedData/GameStrings.txt]Param/Value/304EC468=<c val="FF0000">Око неодобрения смотрит на вас</c>
-[LocalizedData/GameStrings.txt]Param/Value/30509CEB= заражение доступно</c>
+[LocalizedData/GameStrings.txt]Param/Value/30509CEB=: заражение доступно</c>
 [LocalizedData/GameStrings.txt]Param/Value/307A56E2=/
 [LocalizedData/GameStrings.txt]Param/Value/30A8D084=Механический отсек 5
 [LocalizedData/GameStrings.txt]Param/Value/30C86D4A=Elyon
@@ -4333,6 +4336,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/41945F88=Обнаружено незначительное месторождение минералов низкого качества.
 [LocalizedData/GameStrings.txt]Param/Value/419B8591=<c val="FFFF00">Механизированная охрана:</c> <c val="FF0000">Ошибка. Соединение с механизированным роботом охраны не найдено</c>
 [LocalizedData/GameStrings.txt]Param/Value/41BC8FB4=Ошибка. Невозможно завладеть этой единицей.
+[LocalizedData/GameStrings.txt]Param/Value/41DD924E=: исследовано</c>
 [LocalizedData/GameStrings.txt]Param/Value/41E8EEF5=<c val="400040">[Разум улья]</c><c val="8000FF">: 
 [LocalizedData/GameStrings.txt]Param/Value/41FC6CF8=<c val="FFFF00">Главный компьютер корабля</c>: <c val="00FF00">Щит искривления включён</c>
 [LocalizedData/GameStrings.txt]Param/Value/4217940D=<c val="FF00FF">Игрок выиграл игру на сложности ветерана:</c> 
@@ -4366,7 +4370,6 @@
 [LocalizedData/GameStrings.txt]Param/Value/4771B0C7=Медицина 1
 [LocalizedData/GameStrings.txt]Param/Value/478AACA1=<c val="FFFF00">Главный компьютер корабля</c>: <c val="FF0000">Сканирование не удалось. Причина: Система радара повреждена</c>
 [LocalizedData/GameStrings.txt]Param/Value/47B4CC97=<c val="400080">Заражение добычи полезных ископаемых 1 -</c> <c val="8000FF">Жизнь формы чужих увеличена на 5%</c>
-[LocalizedData/GameStrings.txt]Param/Value/4813F483=Текущий регион :
 [LocalizedData/GameStrings.txt]Param/Value/48430A60=<c val="FF0000">Вы присоединились к чату администраторов</c>
 [LocalizedData/GameStrings.txt]Param/Value/485A5802=<c val="FF0000">В доступе отказано. Требуются уровни допуска капитана, лейтенанта, инженера или доктора</c>
 [LocalizedData/GameStrings.txt]Param/Value/486CFB3D=Найдите безопасное место, пока не восстановится электропитание корабля
@@ -4503,7 +4506,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/66480973=Заразить вооружение 1
 [LocalizedData/GameStrings.txt]Param/Value/66E02B58=<c val="FFFF00">Разрушитель «Икарус»</c>: <c val="FF0000">Платформа для посадки поднята.</c>
 [LocalizedData/GameStrings.txt]Param/Value/67840162=<c val="FF0000">Комната гиперскорости</c> <c val="FFFF80">-</c> <c val="804000">Нижняя палуба</c><n/><s val="Tip"><k val="SmartCommand"/> для использования</s>
-[LocalizedData/GameStrings.txt]Param/Value/67F92B4F=<c val="800080">Alien Host</c>
+[LocalizedData/GameStrings.txt]Param/Value/67F92B4F=<c val="800080">Носитель чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/682DCB4E=Медицина 4
 [LocalizedData/GameStrings.txt]Param/Value/683C9D34=<c val="FF0000">В доступе отказано. Требуется уровень допуска инженера, или капитана, охранника, или лейтенанта</c>
 [LocalizedData/GameStrings.txt]Param/Value/687BDF8E=Реактор 3
@@ -4544,7 +4547,11 @@
 [LocalizedData/GameStrings.txt]Param/Value/707A9AE7=Сканирование 2
 [LocalizedData/GameStrings.txt]Param/Value/709EC628=<c val="8000FF">[Блокировка имени] </c>
 [LocalizedData/GameStrings.txt]Param/Value/71160093=Выбран пилот: 
+[LocalizedData/GameStrings.txt]Param/Value/7134EA37=: заражение доступно после перезагрузки</c>
+[LocalizedData/GameStrings.txt]Param/Value/713674FF=<c val="400040">[Разум улья]</c><c val="8000FF">: 
 [LocalizedData/GameStrings.txt]Param/Value/713A42F9=Катушки искривления 3
+[LocalizedData/GameStrings.txt]Param/Value/7146E73F=<c val="400040">[Разум улья]</c><c val="8000FF">: 
+[LocalizedData/GameStrings.txt]Param/Value/7148A126=Прошивка 2
 [LocalizedData/GameStrings.txt]Param/Value/7180FC2E=Реактор 4
 [LocalizedData/GameStrings.txt]Param/Value/71EEA4D7=<c val="800080">Админ</c>
 [LocalizedData/GameStrings.txt]Param/Value/721F9137=Вы отказались от выбора <c val="800080">носителя</c>
@@ -4624,6 +4631,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/80A9D384=Ошибка. Единица не может быть укреплена дальше.
 [LocalizedData/GameStrings.txt]Param/Value/80D12552=<c val="FF0000">Коробка камер оружейной</c>
 [LocalizedData/GameStrings.txt]Param/Value/8105999F=Variable not recognized
+[LocalizedData/GameStrings.txt]Param/Value/81098E7F=: успешно вернулся на склад
 [LocalizedData/GameStrings.txt]Param/Value/81B1A31D= был <c val="8000FF">порождением чужих!</c>
 [LocalizedData/GameStrings.txt]Param/Value/81C2BE4F=<c val="FFFF00">Главный компьютер корабля</c>: <c val="00FF00">Возврат систем безопасности к конфигурации по умолчанию</c>
 [LocalizedData/GameStrings.txt]Param/Value/81D35FE3=
@@ -4696,10 +4704,11 @@
 [LocalizedData/GameStrings.txt]Param/Value/8E1EFED8=<c val="FFFF00">Механизированная охрана:</c> <c val="FF0000">Ошибка. Соединение с механизированным роботом охраны не найдено</c>
 [LocalizedData/GameStrings.txt]Param/Value/8E1FBFC4=Заразить медицину 5
 [LocalizedData/GameStrings.txt]Param/Value/8E61C739=Закрыть меню носителя
-[LocalizedData/GameStrings.txt]Param/Value/8E6BE6A6=<c val="800080">Alien Host</c>
+[LocalizedData/GameStrings.txt]Param/Value/8E6BE6A6=<c val="800080">Носитель чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/8EB37D76=Вы - оружейный офицер. Ваша комната находится в верхней левой части средней палубы. Ваша задача - довести арсенал корабля до полного, чтобы человечество получило доступ к лучшему вооружению. <n/><n/>В ваши обязанности также входит управление вооружением корабля, чтобы защитить его от всего, что находится в космосе. Чтобы использовать оружие корабля, инженер должен подключить к нему питание.
 [LocalizedData/GameStrings.txt]Param/Value/8EDBA480=<c val="400040">[Разум улья]</c><c val="8000FF">: Прошивка 2 заражена</c>
 [LocalizedData/GameStrings.txt]Param/Value/8EDCFA59=Close Evolve 
+[LocalizedData/GameStrings.txt]Param/Value/8EF7AE33=<c val="00FFFF">Перезагрузка корабельных систем завершена. Подключение энергии корабля к сети</c>
 [LocalizedData/GameStrings.txt]Param/Value/8F2243A3= <c val="FF0000">is not here</c>
 [LocalizedData/GameStrings.txt]Param/Value/8F505C6E=Роль: <c val="FFFF80">Оружейный офицер</c>
 [LocalizedData/GameStrings.txt]Param/Value/8F8B6B71= <c val="FF0000">По предварительным оценкам, до взрыва астероида осталось 2 минуты.</c>
@@ -4753,7 +4762,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/98B2199D=<c val="80FFFF">Роль: Лейтенант</c><n/><n/><c val="0080FF">Ваша роль заключается в обновлении прошивки корабля в главном компьютере. Он расположен над точкой появления. Как только обновление прошивки будет приобретено, вы должны инициировать перезагрузку системы, чтобы оно вступило в силу. Во время перезагрузки питание будет отключено на 90 секунд, поэтому убедитесь, что это не вызовет никаких проблем.<n/><n/>Вы также можете приобрести любую другую модернизацию корабля и получить её бонусы. Ваша карта позволяет вам получить доступ к любой зоне корабля, а также использовать любую систему, за исключением пульта наведения системы безопасности.<n/><n/></c><c val="00FFFF">Введите !role в чат, чтобы получить сообщение о местах, важных для вашей роли.</c>
 [LocalizedData/GameStrings.txt]Param/Value/98F1A10E=/2]</c>
 [LocalizedData/GameStrings.txt]Param/Value/993125A6=<c val="FFFF00">Система безопасности станции:</c> <c val="FF0000">Автоматическое нацеливание ID</c>: 
-[LocalizedData/GameStrings.txt]Param/Value/9957344F=Vent Purge
+[LocalizedData/GameStrings.txt]Param/Value/9957344F=Вентиляционная очистка
 [LocalizedData/GameStrings.txt]Param/Value/995CBDA6=<c val="00FF00">Каюты экипажа</c> <c val="FFFF80">-</c> <c val="00FFFF">Средняя палуба</c><n/><s val="Tip"><k val="SmartCommand"/> для использования</s>
 [LocalizedData/GameStrings.txt]Param/Value/999C4FA7=. 
 [LocalizedData/GameStrings.txt]Param/Value/99EDC3B4=<c val="800000">Внимание: Контроль безопасности был нарушен.</c>
@@ -4807,13 +4816,14 @@
 [LocalizedData/GameStrings.txt]Param/Value/A46F71A8=Заразить ксенобиологию 5
 [LocalizedData/GameStrings.txt]Param/Value/A4E5AA1F= <c val="00FFFF">сек.</c>
 [LocalizedData/GameStrings.txt]Param/Value/A54324C3=Обнаружено минеральное поле среднего качества с высоким количеством полезных ископаемых.<n/><n/>Последние сообщения из этого сектора гласили, что в нём находится небольшое скопление чужих.
-[LocalizedData/GameStrings.txt]Param/Value/A5958322= <c val="8000FF">was the current Alien Host</c>
+[LocalizedData/GameStrings.txt]Param/Value/A5958322= <c val="8000FF">был текущим носителем чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/A63C7BEC=Fix the Oxygen Filters located in Janitor's and Storage
 [LocalizedData/GameStrings.txt]Param/Value/A656D069=Qaphsiel
 [LocalizedData/GameStrings.txt]Param/Value/A680D7BE=. 
 [LocalizedData/GameStrings.txt]Param/Value/A6D52E03=<c val="FF0000">Доступ запрещён. Требуется уровень допуска офицера-механика, капитана или лейтенанта.</c>
 [LocalizedData/GameStrings.txt]Param/Value/A6F5E479=
 [LocalizedData/GameStrings.txt]Param/Value/A820B92E=Заражение механического отсека
+[LocalizedData/GameStrings.txt]Param/Value/A848947A=<c val="FF0000">Ядерный реактор отключён</c>
 [LocalizedData/GameStrings.txt]Param/Value/A88B9D9A=Носитель эволюционировал
 [LocalizedData/GameStrings.txt]Param/Value/A8B36F8C=Ксенобиология 3
 [LocalizedData/GameStrings.txt]Param/Value/A944CF00=<c val="FFFF00">Механизированная охрана:</c> <c val="FF0000">Ошибка. Соединение с механизированным роботом охраны не найдено</c>
@@ -4877,6 +4887,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/B324FD5E=Обнаружено незначительное количество минералов низкого качества.<n/><n/>Обнаружен одиночный фрегат в сопровождении эскадрильи истребителей.
 [LocalizedData/GameStrings.txt]Param/Value/B32968A3=<c val="FF8000">Найти безопасное место</c>
 [LocalizedData/GameStrings.txt]Param/Value/B32D9298=. 
+[LocalizedData/GameStrings.txt]Param/Value/B32EA327= завершил перевод в: 
 [LocalizedData/GameStrings.txt]Param/Value/B33C3DA7=<c val="FF0000">Removed all players from Admin Chat</c>
 [LocalizedData/GameStrings.txt]Param/Value/B36DE32A=<c val="008080">Починить кислородные фильтры средней палубы [
 [LocalizedData/GameStrings.txt]Param/Value/B3EDA48B=<c val="FF0000">Связь с механическим отсеком прервана</c>
@@ -4991,14 +5002,15 @@
 [LocalizedData/GameStrings.txt]Param/Value/C6447ACE=Космические операции 1
 [LocalizedData/GameStrings.txt]Param/Value/C66D9393=Ошибка. Корабль проходит улучшение
 [LocalizedData/GameStrings.txt]Param/Value/C66FCF52=<c val="FF0000">Доступ запрещён. Требуется уровень допуска инженера, офицера-технолога, лейтенанта или капитана.</c>
-[LocalizedData/GameStrings.txt]Param/Value/C6D000E6=Info
+[LocalizedData/GameStrings.txt]Param/Value/C6D000E6=Информация
+[LocalizedData/GameStrings.txt]Param/Value/C6F6F271=<c val="0000FF">Ядерный реактор включён</c>
 [LocalizedData/GameStrings.txt]Param/Value/C72FA4AF=. 
 [LocalizedData/GameStrings.txt]Param/Value/C73173A8=. 
 [LocalizedData/GameStrings.txt]Param/Value/C77CE676=<c val="FF0000">Имя слишком длинное</c>
 [LocalizedData/GameStrings.txt]Param/Value/C782170D=Подходит для офицера-механика: 
 [LocalizedData/GameStrings.txt]Param/Value/C7D469D6=<c val="FF0000">Игрок удалён из чата администраторов</c>
 [LocalizedData/GameStrings.txt]Param/Value/C7F673B3=<c val="FFFF00">Система радара</c>: <c val="FF0000">Обнаружена нестабильная звезда. По предварительным оценкам, до солнечной вспышки осталось 3 минуты</c>
-[LocalizedData/GameStrings.txt]Param/Value/C80075FD= <c val="8000FF">is the Alien Host</c>
+[LocalizedData/GameStrings.txt]Param/Value/C80075FD= <c val="8000FF">носитель чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/C8022B8F= был выгнан из игры!
 [LocalizedData/GameStrings.txt]Param/Value/C814F36D=Ошибка. Афайдия сейчас находится в искривлении.
 [LocalizedData/GameStrings.txt]Param/Value/C83B62BA= 
@@ -5016,6 +5028,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/CAA1351B=Заразить медицину 3
 [LocalizedData/GameStrings.txt]Param/Value/CAC11118=<c val="FF0000">В доступе отказано. Требуется уровень допуска оружейного офицера, лейтенанта, офицера безопасности или капитана</c>
 [LocalizedData/GameStrings.txt]Param/Value/CAC5E3ED=<c val="FF0000">[Командный убийца]</c> 
+[LocalizedData/GameStrings.txt]Param/Value/CAF113B8=Локация : 
 [LocalizedData/GameStrings.txt]Param/Value/CB3D2FB8=<c val="800080">Админ</c>
 [LocalizedData/GameStrings.txt]Param/Value/CB632B79=<c val="00FFFF">Имя установлено на</c> 
 [LocalizedData/GameStrings.txt]Param/Value/CB9BBE13=<c val="008000"> установлено на: </c>
@@ -5136,7 +5149,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/E0CAE6D8= заражён</c>
 [LocalizedData/GameStrings.txt]Param/Value/E0DD46A5=<c val="FFFF00">Механизированная охрана:</c></c> <c val="FF0000">МРО повреждён. Невозможно получить приказ.</c>
 [LocalizedData/GameStrings.txt]Param/Value/E0F96A68=<c val="FFFF00">Система безопасности станции:</c> Снятие нацеливания ID: 
-[LocalizedData/GameStrings.txt]Param/Value/E10ED3E9=<c val="8000FF"> was the Alien Host!</c>
+[LocalizedData/GameStrings.txt]Param/Value/E10ED3E9=<c val="8000FF"> был носителем чужих!</c>
 [LocalizedData/GameStrings.txt]Param/Value/E1228FF3=<c val="008000">Банк сохранён</c>
 [LocalizedData/GameStrings.txt]Param/Value/E12BB7AC= <c val="FFFF00">для всех игроков</c>
 [LocalizedData/GameStrings.txt]Param/Value/E16488B0=<c val="FF0000">Доступ запрещён. Требуется уровень допуска капитана или лейтенанта.</c>
@@ -5155,7 +5168,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/E39FDB80=<c val="FFFF00">[Silenced] </c>
 [LocalizedData/GameStrings.txt]Param/Value/E40B3F92=. 
 [LocalizedData/GameStrings.txt]Param/Value/E42F0DEF=Прошивка 5
-[LocalizedData/GameStrings.txt]Param/Value/E449F260= <c val="8000FF">was the original Alien Host</c>
+[LocalizedData/GameStrings.txt]Param/Value/E449F260= <c val="8000FF">был изначальным носителем чужих</c>
 [LocalizedData/GameStrings.txt]Param/Value/E44A7D78=<c val="FF0000">В доступе отказано. Требуется уровень допуска инженера, начальника службы безопасности, лейтенанта или капитана</c>
 [LocalizedData/GameStrings.txt]Param/Value/E47A7870=<c val="FFFF00">Механизированная охрана:</c></c> <c val="FF0000">МРО повреждён. Невозможно получить приказ.</c>
 [LocalizedData/GameStrings.txt]Param/Value/E4A7B16A=<c val="8000FF">[Убийца команды]</c> 
@@ -5164,7 +5177,7 @@
 [LocalizedData/GameStrings.txt]Param/Value/E578BB01=<c val="FFFF00">Механизированная охрана:</c> <c val="FF0000">Ошибка. Соединение с механизированным роботом охраны не найдено</c>
 [LocalizedData/GameStrings.txt]Param/Value/E584664E=<c val="00FF00">Превращено в порождения:</c>
 [LocalizedData/GameStrings.txt]Param/Value/E5AD8EFE=Слишком частое использование искривления в этом секторе привело к повреждению барьера. Всё внутри сектора было поглощено ужасными существами.
-[LocalizedData/GameStrings.txt]Param/Value/E5D7BB1D=Кислород :
+[LocalizedData/GameStrings.txt]Param/Value/AAAD91B3=O2 : 
 [LocalizedData/GameStrings.txt]Param/Value/E5F415C2=<c val="400040">[Разум улья]</c><c val="8000FF">: Прошивка 4 заражена</c>
 [LocalizedData/GameStrings.txt]Param/Value/E5F7D6C7=Паразитарный взрыв<n/><n/><c val="8000FF">Отключает все механические строения в пределах целевой области</c><n/><n/><c val="0080FF">Длится 14 секунд.<n/>Создаёт сужение в целевой области</c><n/><n/><c val="400040">Не может использоваться людьми</c>
 [LocalizedData/GameStrings.txt]Param/Value/E68F063E=Система безопасности 1
@@ -5327,22 +5340,22 @@
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/And2174622517NotCount[LocalizedData/GameStrings.txt]BehaviorCerebrateProxyEvoTimerCompleteOnlyOrNotCountUnitCrewMemberAvatarCompleteOnlyNotCountUnitCerebrateAvatarCompleteOnly=Assume Control must take over the target unit fully
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/And4192160307NotCount[LocalizedData/GameStrings.txt]BehaviorInCombatCompleteOnlyNotCount[LocalizedData/GameStrings.txt]BehaviorAlienInCombatCompleteOnly=Cannot be used in combat
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/And680476367NotCount[LocalizedData/GameStrings.txt]BehaviorHumanFormCompleteOnlyAtUnitNotCount[LocalizedData/GameStrings.txt]BehaviorMorphingCompleteOnlyAtUnit=Not morphing
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorAlienInCombatCompleteOnly3258923518=Cannot be in combat
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorAlienTissueSampleCompleteOnly721285325=Xeno Tissue Sample
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorG154RocketPropelledAPAutocannonsEquippedCompleteOnly2974741637=Already Equipped
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorG163ScattershotCannonEquippedCompleteOnly2974741637=Already Equipped
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorIcarusCannonModeCompleteOnlyAtUnit3647088126=Cannon mode not active
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorIcarusConsoleActiveCompleteOnlyAtUnit2603326731=Console inactive
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorIcarusFlameThrowerCompleteOnlyAtUnit2816918284=Flame Thrower mode not active
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorIcarusMissileModeCompleteOnlyAtUnit716453878=Missile Mode not active
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorInCombatCompleteOnlyAtUnit1218620108=В бою
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorInfestorCloneCompleteOnly943463175=Нет текущего клона
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorMentalAberrationLinkCompleteOnlyAtUnit2511749752=Must have at least one affixation
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorPlayerOnSurgeryTableCompleteOnlyAtUnit41690554=Член экипажа на хирургическом столе
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorSampleTakenCompleteOnlyAtUnit826074791=Должен быть взят образец
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorSurgeryTableActiveCompleteOnlyAtUnit3238793830=Хирургический стол используется
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorTwinM117GatlingsEquippedCompleteOnly2974741637=Already Equipped
-[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/Count[LocalizedData/GameStrings.txt]BehaviorUpsideDownCompleteOnlyAtUnit4064473274=Перевернуться в другой мир
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorAlienInCombatCompleteOnly3258923518=Cannot be in combat
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorAlienTissueSampleCompleteOnly721285325=Xeno Tissue Sample
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorG154RocketPropelledAPAutocannonsEquippedCompleteOnly2974741637=Уже надето
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorG163ScattershotCannonEquippedCompleteOnly2974741637=Уже надето
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorIcarusCannonModeCompleteOnlyAtUnit3647088126=Cannon mode not active
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorIcarusConsoleActiveCompleteOnlyAtUnit2603326731=Console inactive
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorIcarusFlameThrowerCompleteOnlyAtUnit2816918284=Flame Thrower mode not active
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorIcarusMissileModeCompleteOnlyAtUnit716453878=Missile Mode not active
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorInCombatCompleteOnlyAtUnit1218620108=В бою
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorInfestorCloneCompleteOnly943463175=Нет текущего клона
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorMentalAberrationLinkCompleteOnlyAtUnit2511749752=Must have at least one affixation
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorPlayerOnSurgeryTableCompleteOnlyAtUnit41690554=Член экипажа на хирургическом столе
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorSampleTakenCompleteOnlyAtUnit826074791=Должен быть взят образец
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorSurgeryTableActiveCompleteOnlyAtUnit3238793830=Хирургический стол используется
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorTwinM117GatlingsEquippedCompleteOnly2974741637=Уже надето
+[LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountBehaviorUpsideDownCompleteOnlyAtUnit4064473274=Перевернуться в другой мир
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountUnitAlienNestInProgressOrBetter23856475=No Nest Alive
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountUnitAvatarCocoonInProgressOrBetter2583121765=Avatar training
 [LocalizedData/GameStrings.txt]RequirementNode/Tooltip/CountUpgradeAlienHostCompleteOnly431968206=Must be Alien Host
@@ -5446,8 +5459,8 @@
 [LocalizedData/GameStrings.txt]TargetCrew=Цель должна быть членом экипажа
 [LocalizedData/GameStrings.txt]TargetNotNeuralInfested=Target already has Neural Parasite
 [LocalizedData/GameStrings.txt]TooManyTurrets=Too many turrets in the targeted region
-[LocalizedData/GameStrings.txt]UI/HelpMenuDialogTechGlossary_Control_[LocalizedData/GameStrings.txt]Unit/Category/AlienForms=Формы чужих
-[LocalizedData/GameStrings.txt]UI/HelpMenuDialogTechGlossary_Control_[LocalizedData/GameStrings.txt]Unit/Category/Human=Человек
+[LocalizedData/GameStrings.txt]UI/HelpMenuDialogTechGlossary_Control_Unit/Category/AlienForms=Формы чужих
+[LocalizedData/GameStrings.txt]UI/HelpMenuDialogTechGlossary_Control_Unit/Category/Human=Человек
 [LocalizedData/GameStrings.txt]UI/HelpMenuDialogTechVoid=Fall of Aphaidia
 [LocalizedData/GameStrings.txt]UI/ResourceName0=<c val="80FFFF">Кредиты</c><n/><n/><c val="0080FF">Используется для личных улучшений</c>
 [LocalizedData/GameStrings.txt]UI/ResourceName1=<c val="80FFFF">Металлолом</c><n/><n/><c val="0080FF">Используется для модернизации систем Афайдии</c>
@@ -5525,8 +5538,8 @@
 [LocalizedData/GameStrings.txt]Unit/Highlight/StomachTentacle=<c val="8000FF">Стенка желудка</c>
 [LocalizedData/GameStrings.txt]Unit/Highlight/SurgeryTable=<c val="00FFFF">Хирургический стол</c>
 [LocalizedData/GameStrings.txt]Unit/Highlight/SymbioticCollective=<c val="FF8000">Общий симбиоз</c>
-[LocalizedData/GameStrings.txt]Unit/Highlight/SystemsConsole=<c val="FFFFFF">Системная консоль</c><n/><s val="Tip"><k val="Selection"/> для использовании вблизи</s>
-[LocalizedData/GameStrings.txt]Unit/Highlight/TargetingConsole=<c val="FFFFFF">Консоль нацеливания</c><n/><s val="Tip"><k val="Selection"/> для использовании вблизи</s>
+[LocalizedData/GameStrings.txt]Unit/Highlight/SystemsConsole=<c val="FFFFFF">Системная консоль</c><n/><s val="Tip"><k val="Selection"/> для использования вблизи</s>
+[LocalizedData/GameStrings.txt]Unit/Highlight/TargetingConsole=<c val="FFFFFF">Консоль нацеливания</c><n/><s val="Tip"><k val="Selection"/> для использования вблизи</s>
 [LocalizedData/GameStrings.txt]Unit/Highlight/ToxinDistributionModule=<c val="FF8000">Модуль распределения токсинов</c>
 [LocalizedData/GameStrings.txt]Unit/Highlight/ToxinProductionFacility=<c val="FF8000">Завод по производству токсинов</c>
 [LocalizedData/GameStrings.txt]Unit/Highlight/UnstableAsteroid=<c val="00FFFF">Нестабильный астероид</c><n/><s val="Tip">Используйте тяговый луч, чтобы подтянуть к Афайдии</s>
@@ -5749,8 +5762,8 @@
 [LocalizedData/GameStrings.txt]Unit/Name/HotSRaptor=Раптор
 [LocalizedData/GameStrings.txt]Unit/Name/HugeSwarmQueen=Праматерь
 [LocalizedData/GameStrings.txt]Unit/Name/HullDamage=Hull Damage
-[LocalizedData/GameStrings.txt]Unit/Name/HunterKillerMech=Hunter Killer
-[LocalizedData/GameStrings.txt]Unit/Name/HunterKillerMechInfested=Hunter Killer
+[LocalizedData/GameStrings.txt]Unit/Name/HunterKillerMech=Убийца-охотник
+[LocalizedData/GameStrings.txt]Unit/Name/HunterKillerMechInfested=Убийца-охотник
 [LocalizedData/GameStrings.txt]Unit/Name/HunterKillerProjectile=HunterKillerProjectile
 [LocalizedData/GameStrings.txt]Unit/Name/HybridDoorsThinLeft=Внутренняя дверь корабля
 [LocalizedData/GameStrings.txt]Unit/Name/HybridDoorsThinLeftLowered=Внутренняя дверь корабля
@@ -5819,8 +5832,8 @@
 [LocalizedData/GameStrings.txt]Unit/Name/MecCard=<c val="FF8000">Ключ-карта офицера-механика</c>
 [LocalizedData/GameStrings.txt]Unit/Name/MechanicalOfficersCard=Ключ-карта офицера-механика
 [LocalizedData/GameStrings.txt]Unit/Name/MechanicalOfficersCardFake=Ключ-карта офицера-механика
-[LocalizedData/GameStrings.txt]Unit/Name/MechanizedSecurityUnit=Mechanized Security Unit
-[LocalizedData/GameStrings.txt]Unit/Name/MechanizedSecurityUnitInfested=Mechanized Security Unit
+[LocalizedData/GameStrings.txt]Unit/Name/MechanizedSecurityUnit=Механизированный робот охраны
+[LocalizedData/GameStrings.txt]Unit/Name/MechanizedSecurityUnitInfested=Механизированный робот охраны
 [LocalizedData/GameStrings.txt]Unit/Name/MedicalConsole=Медицинская консоль
 [LocalizedData/GameStrings.txt]Unit/Name/MedicalDrone=Медицинский дрон
 [LocalizedData/GameStrings.txt]Unit/Name/MedicalLab=Медицинская лаборатория
